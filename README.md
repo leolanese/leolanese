@@ -3,7 +3,7 @@
 ## Hi there, I'm Leo 👋 
 
  
-I'm a Software Developer, living in London UK, with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.
+I'm a Senior Software Developer, living in London UK, with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.
  
 <div align="left">
  

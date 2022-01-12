@@ -25,7 +25,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 ---
 
 <div align="center">
- https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true
+ ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true)
 </div>
  
 ---

@@ -56,8 +56,6 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 </div>
 
-<small style="color:orange;"><i>Private & Corporate branches are not display</i></small> 
- 
 ---
   
 ### 📫 How to reach me:  

@@ -9,7 +9,10 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 ### 🔭 What I'm currently working on:
  - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno's products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
-
+ 
+### 🖥️ Where I was working on in the past:
+ - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `Mimecast`, `NowTV` and `Vashi`, between others, producing succesully projects that I'm proud of.
+ 
 ### 🌱 What I'm currently learning: 
  - Front-End: SvelteJS 👍 Expanding to Svelte is a radical and simple new approach to building user interfaces. [Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
  - FullStack: NextJS using BlitzJS and ReactJS 👍 Expanding to Full-Stack to control back-end from Front-end [Sharing the knowledge!: BlitzJS is DB agnostic and API-less data-layer approach and it is build on top of NExtJS](https://blitzjs.com/docs/why-blitz)

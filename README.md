@@ -26,13 +26,13 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
  
 ### 💬 What people can ask me about:
- - Angular2+
+ - Angular
  - Functional Programing 
  - Responsive Web Design
+ - ... and anything in general! 😀
 
-
- ### 📓 Languages and Tools
-
+ 
+### 📓 Languages and Tools:
 <div>
 <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
 <img src="https://img.shields.io/badge/-JavaScript-ad9e37?logo=javascript" />
@@ -58,7 +58,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 ---
   
-### 📫 How to reach me:  
+### 📬 How to reach me:  
 
 <div align="left">
   <a href="http://twitter.com/LeoLaneseltd">

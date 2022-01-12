@@ -11,7 +11,9 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on ...
+<div align="left">
+🔭 I’m currently working on ...
+</div>
  
 ---
  

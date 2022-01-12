@@ -32,12 +32,13 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 <div>
 <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
 <img src="https://img.shields.io/badge/JS-Javascript-yellow" />
-  
-<img src="https://img.shields.io/badge/-Angular-dd0031?logo=angular" /> 
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" /> 
 
-<img src="https://img.shields.io/badge/-Redux-blue" />  
-<img src="https://img.shields.io/badge/Agile-ScrumMaster-blue" /> 
+<img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular" /> 
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
+<img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" />   
+ 
+<img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />  
+<img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" /> 
                                                                                
 </div> 
  

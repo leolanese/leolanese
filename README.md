@@ -1,4 +1,6 @@
 <div align="center">
+ 
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 
  # Hi there, I'm Leo 👋 
  
@@ -21,6 +23,14 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  - Angular2+
  - Functional Programing 
  - Responsive Web Design
+ 
+---
+
+<div align="center">
+ https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true
+</div>
+ 
+---
  
 📫 How to reach me:  
 <h5>Twitter:

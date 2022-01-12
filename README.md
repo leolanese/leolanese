@@ -17,10 +17,11 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  - Front-End: SvelteJS 👍 Expanding to Svelte is a radical and simple new approach to building user interfaces. [Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
  - FullStack: NextJS using BlitzJS and ReactJS 👍 Expanding to Full-Stack to control back-end from Front-end [Sharing the knowledge!: BlitzJS is DB agnostic and API-less data-layer approach and it is build on top of NExtJS](https://blitzjs.com/docs/why-blitz)
 
+ 
 ### 👯 What I'm looking to collaborate on:
  - Open Sources 
- - Presentation in Conferences (as previouly did)
-
+ - Presentation in Conferences and workshops (as previouly did for `SpainJS`, `ScotlandJS` and `JSConf` Angentina)
+ 
  
 ### 💬 What people can ask me about:
  - Angular2+

@@ -12,6 +12,8 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 ### 🖥️ Where I was working on in the past:
  - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `Mimecast`, `NowTV` and `Vashi`, between others, producing succesully projects that I'm proud of.
+ - I did several presentations as speaker in Conferences and Workshops: `SpainJS`, `ScotlandJS` and `JSConf` Angentina.
+
  
 ### 🌱 What I'm currently learning: 
  - Front-End: SvelteJS 👍 Expanding to Svelte is a radical and simple new approach to building user interfaces. [Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
@@ -19,9 +21,9 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
  
 ### 👯 What I'm looking to collaborate on:
- - Open Sources 
- - Presentation in Conferences and workshops (as previouly did for `SpainJS`, `ScotlandJS` and `JSConf` Angentina)
- 
+ - Collaborate and review technical books (as I did for: `Angular Packt Publishing`: Deploying AngularJS, Packt Publishing London, UK)
+ - Influencer on Conferences (as I did for `Advance ReactJS` London, UK)
+
  
 ### 💬 What people can ask me about:
  - Angular2+

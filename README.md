@@ -40,6 +40,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
                                                                                
 </div> 
 
+ ---
 
 <div align="center">
 
@@ -47,7 +48,8 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 </div>
  
-
+---
+  
 ### 📫 How to reach me:  
 
 <div align="left">

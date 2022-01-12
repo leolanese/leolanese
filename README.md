@@ -2,11 +2,11 @@
 
  # Hi there, I'm Leo 👋 
  
-I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
+I'm a Software Developer with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Responsive Web Design.
  
   ### You can find me on:
 
-<!--
+
 **leolanese/leolanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

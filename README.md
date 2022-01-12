@@ -30,8 +30,10 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 ### 👩‍💻 Languages and Tools
 
 <div>
-<img src="https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555"/>
+<img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
 
+<img src="https://img.shields.io/badge/JS-Javascript-yellow" />
+                                                                               
 </div> 
  
  
@@ -39,7 +41,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 <div align="center">
 
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true)
+![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true)
 
 </div>
  

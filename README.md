@@ -52,7 +52,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 <div style="width:100%; margin:0 auto;">
  
- ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true)
+ ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true&include_all_commits=true&theme=monokai)
 
 </div>
 

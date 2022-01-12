@@ -56,7 +56,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 </div>
 
-<small>Private & Corporate branches are not display</small> 
+<small><i>Private & Corporate branches are not display</i></small> 
  
 ---
   

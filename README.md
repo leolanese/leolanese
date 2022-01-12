@@ -5,22 +5,25 @@
 I'm a Software Developer with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.
  
 <div align="left">
-<br>
+ 
 🔭 What I'm currently working on:
+ 
  - Luno Fintech Financce: Luno is a leading global cryptocurrency company with over 5 million customers in 40 countries and a team of over350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno’s products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
-<br>
+
 🌱 What I'm currently learning: 
  - Front-End: SvelteJS 
  - FullStack: NextJS using BlitzJS and ReactJS
-<br>
+
 👯 What I'm looking to collaborate on:
  - Open Sources 
  - Presentation in Conferences (as previouly did)
-<br>
+
+ 
 💬 What people can ask me about:
  - Angular2+
  - Functional Programing 
  - Responsive Web Design
+
  
 ---
 
@@ -63,4 +66,4 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 </div>
 <br>
-
+</div>

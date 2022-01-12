@@ -6,15 +6,15 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 <div align="left">
  
-🔭 What I'm currently working on:
+### 🔭 What I'm currently working on:
  
  - Luno Fintech Financce: Luno is a leading global cryptocurrency company with over 5 million customers in 40 countries and a team of over350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno’s products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
 
-🌱 What I'm currently learning: 
+### 🌱 What I'm currently learning: 
  - Front-End: SvelteJS 
  - FullStack: NextJS using BlitzJS and ReactJS
 
-👯 What I'm looking to collaborate on:
+### 👯 What I'm looking to collaborate on:
  - Open Sources 
  - Presentation in Conferences (as previouly did)
 
@@ -24,10 +24,8 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  - Functional Programing 
  - Responsive Web Design
 
- 
----
 
-### 👩‍💻 Languages and Tools
+ ### 👩‍💻 Languages and Tools
 
 <div>
 <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
@@ -41,9 +39,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 <img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" /> 
                                                                                
 </div> 
- 
- 
----
+
 
 <div align="center">
 
@@ -51,9 +47,8 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
 </div>
  
----
- 
-📫 How to reach me:  
+
+### 📫 How to reach me:  
 
 <div align="left">
   <a href="http://twitter.com/LeoLaneseltd">

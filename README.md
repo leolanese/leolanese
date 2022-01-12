@@ -20,11 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- *To build a similar Github profile page, check out [this blog post](https://betterprogramming.pub/7-tweaks-to-stand-out-with-your-github-profile-766350420ff2).
-
-[twitter]: https://twitter.com/amine_elhattami
-[blog]: https://amine-elhattami.medium.com/
-[youtube]: https://www.youtube.com/channel/UC5HESU2PZakGoNS2pYeO5Og
-[linkedin]: https://linkedin.com/in/amine-elhattami-73841947/
-[devEnvPlayList]: https://www.youtube.com/playlist?list=PLYDrCnplQfmGGJLiJ6xtILIHff4ikidYV
-[ideaVimCastPlayList]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B

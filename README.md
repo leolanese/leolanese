@@ -35,6 +35,8 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 <img src="https://img.shields.io/badge/A2+-Angular-red" /> 
 <img src="https://img.shields.io/badge/-ReactJS-lightblue" /> 
+
+<img src="https://img.shields.io/badge/-Redux-blue" />  
  
 <img src="https://img.shields.io/badge/Agile-ScrumMaster-blue" /> 
                                                                                

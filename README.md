@@ -55,7 +55,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 📫 How to reach me:  
 
-<div align="center">
+<div align="left">
   <a href="http://twitter.com/LeoLaneseltd">
     <img alt="Leo Lanese Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -71,7 +71,8 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
    <a href="http://www.leolanese.com/blog">
     <img alt="Personal Blog" src="https://img.shields.io/badge/blog-ededed?style=for-the-badge&logo=red&logoColor=white">
   </a>
-
 </div>
+
 <br>
+
 </div>

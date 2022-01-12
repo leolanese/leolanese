@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+
+ # Hi there, I'm Leo 👋 
+ 
+I'm a research developer with industry experience in machine learning applications, specializing in natural language processing. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Python, C/C++, and ML libraries (Pytorch, Tensorflow).
+ 
+  ### You can find me on:
 
 <!--
 **leolanese/leolanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

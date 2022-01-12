@@ -24,6 +24,16 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 ---
 
+### 👩‍💻 Languages and Tools
+
+<div>
+<img src="https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555"/>
+
+</div> 
+ 
+ 
+---
+
 <div align="center">
 
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true)
@@ -42,7 +52,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
     <img alt="Leo Lanese Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://leolanese.com/">
-    <img alt="Leo Lanese WebSite" src="https://img.shields.io/badge/website-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    <img alt="Leo Lanese WebSite" src="https://img.shields.io/badge/website-yellow?style=for-the-badge&logo=javascript">
   </a>
   <a href="http://www.dev.to/leolanese">
     <img alt="Dev Blog" src="https://img.shields.io/badge/dev-FF0000?style=for-the-badge&logo=black&logoColor=black">

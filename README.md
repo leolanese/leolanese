@@ -7,7 +7,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  
 <div align="left">
  
-### 🔭 What I'm currently working on:
+### 👨‍💻 What I'm currently working on:
  - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno's products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
  
 ### 🖥️ Where I was working on in the past:

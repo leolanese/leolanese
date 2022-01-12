@@ -19,7 +19,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  - Presentation in Conferences (as previouly did)
 
  
-💬 What people can ask me about:
+### 💬 What people can ask me about:
  - Angular2+
  - Functional Programing 
  - Responsive Web Design

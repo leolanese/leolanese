@@ -49,9 +49,12 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  ---
 
 <div align="center">
+ 
+### 📫 What I'm doing in my spare time:  
 
 ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true)
-
+<small>Private & Corporate branches are not display</small>
+ 
 </div>
  
 ---

@@ -31,7 +31,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
  - Responsive Web Design
 
 
- ### 👩‍💻 Languages and Tools
+ ### 📓 Languages and Tools
 
 <div>
 <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
@@ -48,7 +48,7 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 
  ---
 
-### 📫 What I'm doing in my spare time:  
+### 🔍 What I'm doing in my spare time:  
 
 <div style="width:100%; margin:0 auto;">
  

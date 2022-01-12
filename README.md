@@ -8,11 +8,10 @@ I'm a Software Developer with industry experience in Finance and e-commerce appl
 <div align="left">
  
 ### 🔭 What I'm currently working on:
- 
- - Luno Fintech Financce: Luno is a leading global cryptocurrency company with over 5 million customers in 40 countries and a team of over350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno’s products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
+ - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno's products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
 
 ### 🌱 What I'm currently learning: 
- - Front-End: SvelteJS 
+ - Front-End: SvelteJS ![Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
  - FullStack: NextJS using BlitzJS and ReactJS
 
 ### 👯 What I'm looking to collaborate on:

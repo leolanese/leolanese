@@ -33,7 +33,7 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
  - ... and anything in general! 😀
 
  
-### 📓 Tech Stack. Languages and Tools:
+### 📓 Tech Stack: Languages and Tools:
 <div>
   <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
   <img src="https://img.shields.io/badge/-JavaScript-ad9e37?logo=javascript" />
@@ -42,7 +42,11 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
   <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" />   
   <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />  
   <img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" />   
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+ </div>
  
+ ### 📓 Tech Stack: OS:
+ <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />

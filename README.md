@@ -51,6 +51,17 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
 </div>
  
  
+### 📓 Tech Stack: Angular and React ecosystem
+<div>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" style="width: 60px" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" style="width: 60px" />
+  <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" style="width: 60px" />
+  <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" style="width: 60px" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="width: 60px" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" style="width: 60px" />
+</div>
+ 
+ 
 ### 📓 Tech Stack: Software Development practices:
 <div>
    <img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" />  
@@ -59,9 +70,9 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
  
 ### 📓 Tech Stack: OS:
 <div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="width: 60px" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="width: 60px" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="width: 60px" />
 </div> 
 
 
@@ -94,5 +105,7 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
 </div>
 
 <br>
+ 
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"> 
 
 </div> 

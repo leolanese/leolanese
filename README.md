@@ -48,7 +48,7 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
   <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs"  />   
   <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />
-  <img src="https://img.shields.io/badge/RxJS-EE0000?style=for-the-badge&logo=rxjs&logoColor=white"  style="width: 45px" />
+  <img src="https://img.shields.io/badge/RxJS-EE0000?style=for-the-badge&logo=rxjs&logoColor=white"  style="width: 35px" />
 </div>
  
  

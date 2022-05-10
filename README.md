@@ -47,8 +47,10 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
 
 ### 🔍 What I'm doing in my spare time: 
 <div style="width:100%; margin:0 auto;">
+ 
  ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true&include_all_commits=true&theme=monokai)
-</div>
+
+ </div>
 
   
 ### 📬 How to reach me:  

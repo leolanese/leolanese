@@ -44,10 +44,10 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
   
 ### 📓 Tech Stack: Framework and Libraries
 <div>
-  <img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular" style="height: 20px"  /> 
-  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat"  style="height: 20px"/> 
-  <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" style="height: 20px" />   
-  <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" style="height: 20px" />  
+  <img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular"  /> 
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
+  <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" style="weight: 60px" />   
+  <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux"  />  
 </div>
  
  

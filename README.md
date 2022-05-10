@@ -15,7 +15,7 @@
 
 ### 🖥️ Where I was working on in the past:
  - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
- - I did several presentations as speaker in JavaScript Conferences around the world. Most remarkables: `SpainJS in Madrid`, `ScotlandJS in Edinburgh` and `JSConf in Buenos Aires`.
+ - I did several presentations as speaker in JavaScript Conferences around the world. Most remarkables: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
 
 --- 
  

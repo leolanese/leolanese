@@ -20,9 +20,9 @@
 --- 
  
 ### 👨🏼‍🏫 What I collaborated:
-- Collaborate and review technical books: `Angular Packt Publishing`: "Deploying AngularJS", Packt Publishing London, UK.
-- Influencer on Conferences: `Advance ReactJS` London, UK.
-- `Workshops` on several clients in London, UK: 
+- `Collaborate and review` technical books`: Angular Packt Publishing, "Deploying AngularJS", Packt Publishing London, UK.
+- `Influencer on JavaScript Conferences`: `Advance ReactJS` London, UK.
+- `Running Workshops` on several clients in London, UK: 
  * [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
  * [Functional (Programming) mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
  * [Becoming Functional](https://leolanese.github.io/Becoming-Functional/)

@@ -48,18 +48,18 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
   <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs"  />   
   <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />
-  <img src="https://img.shields.io/badge/RxJS-EE0000?style=for-the-badge&logo=rxjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-EE0000?style=for-the-badge&logo=rxjs&logoColor=white"  style="width: 53px" />
 </div>
  
  
 ### 📓 Tech Stack: Angular and React ecosystem
 <div>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"  />
-  <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
-  <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  style="width: 53px" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"   style="width: 53px"/>
+  <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" style="width: 53px" />
+  <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"  style="width: 53px" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  style="width: 53px" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"  style="width: 53px" />
 </div>
  
  

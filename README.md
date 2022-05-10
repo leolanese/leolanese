@@ -15,13 +15,21 @@
 
 ### 🖥️ Where I was working on in the past:
  - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
- - I did several presentations as speaker in JavaScript Conferences & Workshops around the world. Most remarcables: `SpainJS in Madrid`, `ScotlandJS in Edinburgh` and `JSConf in Buenos Aires`.
+ - I did several presentations as speaker in JavaScript Conferences around the world. Most remarkables: `SpainJS in Madrid`, `ScotlandJS in Edinburgh` and `JSConf in Buenos Aires`.
 
 --- 
  
 ### 👨🏼‍🏫 What I collaborated:
 - Collaborate and review technical books (as I did for: `Angular Packt Publishing`: Deploying AngularJS, Packt Publishing London, UK)
 - Influencer on Conferences (as I did for `Advance ReactJS` London, UK)
+- Workshops on several clients in London: 
+ * ![The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
+ * ![Functional (Programming) mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
+ * ![Becoming Functional](https://leolanese.github.io/Becoming-Functional/)
+ * ![Practical Functional Programming](https://github.com/leolanese/practical_functional_programming)
+ * ![The new multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
+ * ![Building a Responsive Future-friendly Web](http://leolanese.com/workshop/)
+ 
  
 ---
  

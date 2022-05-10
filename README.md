@@ -2,7 +2,6 @@
 
 ## Hi there, I'm Leo 👋 
 
- 
 I'm a Senior Software Developer, living in London UK, with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.
  
 <div align="left">
@@ -16,7 +15,7 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
  - I did several presentations as speaker in JavaScript Conferences & Workshops around the world. Most remarcables: `SpainJS in Madrid`, `ScotlandJS in Edinburgh` and `JSConf in Buenos Aires`.
 
  
- ### 👯 What I collaborated:
+ ### 👨🏼‍🏫 What I collaborated:
  - Collaborate and review technical books (as I did for: `Angular Packt Publishing`: Deploying AngularJS, Packt Publishing London, UK)
  - Influencer on Conferences (as I did for `Advance ReactJS` London, UK)
  
@@ -28,37 +27,29 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
  
 ### 💬 What people can ask me about:
  - Angular2+
- - Functional Programing 
  - Responsive Web Design
+ - Functional Programing 
  - Mobile UX
  - ... and anything in general! 😀
 
  
 ### 📓 Languages and Tools:
 <div>
-<img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
-<img src="https://img.shields.io/badge/-JavaScript-ad9e37?logo=javascript" />
-
-<img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular" /> 
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
-<img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" />   
- 
-<img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />  
-<img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" /> 
-                                                                               
+  <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
+  <img src="https://img.shields.io/badge/-JavaScript-ad9e37?logo=javascript" />
+  <img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular" /> 
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
+  <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" />   
+  <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />  
+  <img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" />                                                                          
 </div> 
 
- ---
 
-### 🔍 What I'm doing in my spare time:  
-
+### 🔍 What I'm doing in my spare time: 
 <div style="width:100%; margin:0 auto;">
- 
  ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true&include_all_commits=true&theme=monokai)
-
 </div>
 
----
   
 ### 📬 How to reach me:  
 
@@ -82,4 +73,4 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
 
 <br>
 
-</div>
+</div> 

@@ -29,11 +29,7 @@
  * ![Practical Functional Programming](https://github.com/leolanese/practical_functional_programming)
  * ![The new multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
  * ![Building a Responsive Future-friendly Web](http://leolanese.com/workshop/)
- 
-| --------------:|
-| col 3 is       |
-| col 2 is       |
-| zebra stripes  | 
+
  
 ---
  

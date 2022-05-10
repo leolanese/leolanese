@@ -42,7 +42,7 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
   <img src="https://img.shields.io/badge/-AngularJS-df2e31?logo=angularjs" />   
   <img src="https://img.shields.io/badge/-Redux-754cbf?logo=redux" />  
   <img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" />   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="width: 60px" ;/>
  </div>
  
  ### 📓 Tech Stack: OS:

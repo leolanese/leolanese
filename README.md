@@ -16,14 +16,14 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
  - I did several presentations as speaker in JavaScript Conferences & Workshops around the world. Most remarcables: `SpainJS in Madrid`, `ScotlandJS in Edinburgh` and `JSConf in Buenos Aires`.
 
  
+ ### 👯 What I collaborated:
+ - Collaborate and review technical books (as I did for: `Angular Packt Publishing`: Deploying AngularJS, Packt Publishing London, UK)
+ - Influencer on Conferences (as I did for `Advance ReactJS` London, UK)
+ 
+ 
 ### 🌱 What I'm currently learning: 
  - Front-End: SvelteJS 👍 Expanding to Svelte is a radical and simple new approach to building user interfaces. [Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
  - FullStack: NextJS / BlitzJS + ReactJS 👍 Expanding to Full-Stack to control back-end from Front-end [Sharing the knowledge!: BlitzJS is DB agnostic and API-less data-layer approach and it is build on top of NExtJS](https://blitzjs.com/docs/why-blitz)
-
- 
-### 👯 What I'm looking to collaborate on:
- - Collaborate and review technical books (as I did for: `Angular Packt Publishing`: Deploying AngularJS, Packt Publishing London, UK)
- - Influencer on Conferences (as I did for `Advance ReactJS` London, UK)
 
  
 ### 💬 What people can ask me about:

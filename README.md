@@ -1,8 +1,10 @@
 <div align="center">
 
-## Hi there, I'm Leo 👋 
+ ## Hi there, I'm Leo 👋 
 
-I'm a Senior Software Developer, living in London UK, with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.
+<i>I'm a Senior Software Developer, living in London UK, with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.</i>
+ 
+</div>
  
 <div align="left">
  
@@ -82,7 +84,7 @@ I'm a Senior Software Developer, living in London UK, with industry experience i
  
  ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true&include_all_commits=true&theme=monokai)
 
- </div>
+</div>
 
   
 ### 📬 How to reach me:  

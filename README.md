@@ -35,7 +35,7 @@
  
 ### 🌱 What I'm currently learning: 
  - Front-End: SvelteJS 👍 Expanding to Svelte is a radical and simple new approach to building user interfaces. [Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
- - FullStack: NextJS / BlitzJS + ReactJS 👍 Expanding to Full-Stack to control back-end from Front-end [Sharing the knowledge!: BlitzJS is DB agnostic and API-less data-layer approach and it is build on top of NExtJS](https://blitzjs.com/docs/why-blitz)
+ - BlockChain, distributed App, decentralized finance (DeFi) and smart contracts using NextJS, BlitzJS and ReactJS 👍 
 
 --- 
  

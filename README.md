@@ -34,8 +34,7 @@
 ---
  
 ### 🌱 What I'm currently learning: 
- - Front-End: SvelteJS 👍 Expanding to Svelte is a radical and simple new approach to building user interfaces. [Spread the love!: According to StackOverFlow is the most loved framework](https://insights.stackoverflow.com/survey/2021?utm_source=thenewstack&utm_medium=website&utm_campaign=platform#most-loved-dreaded-and-wanted-webframe-love-dread)
- - BlockChain, distributed App, decentralized finance (DeFi) and smart contracts using NextJS, BlitzJS and ReactJS 👍 
+ - BlockChain, Distributed App, Decentralized Finance (DeFi) and Smart contracts using NextJS, BlitzJS and ReactJS 👍 
 
 --- 
  

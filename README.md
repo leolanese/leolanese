@@ -56,7 +56,7 @@
 </div>
 
   
-### 📓 Tech Stack: Framework and Libraries
+### 🖥️ Tech Stack: Framework and Libraries
 <div>
   <img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular"  /> 
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
@@ -77,7 +77,7 @@
 </div>
  
  
-### 📓 Tech Stack: Software Development practices
+### 📱 Tech Stack: Software Development practices
 <div>
    <img src="https://img.shields.io/badge/SCM-ScrumMaster-blue" />  
 </div>

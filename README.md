@@ -2,20 +2,20 @@
 
  ## Hi there, I'm Leo 👋 
 
-<i>I'm a Senior Software Developer, living in London UK, with industry experience in Finance and e-commerce applications, specializing in Front-End using Angular and React frameworks. Moreover, I have extensive experience in large-scale software applications. I'm proficient in Functional Programing and Responsive Web Design practices.</i>
+<i>I'm a Senior Software Developer, living and working in London UK. Across the ten years I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks. I'm proficient in Functional Programing and Responsive Web Design practices.</i>
  
 </div>
  
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno's products andservices make it safe and easy to buy, store and learn about cryptocurrencies.
+ - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno's products and services make it safe and easy to buy, store and learn about cryptocurrencies.
 
 --- 
 
 ### 🖥️ Where I was working on in the past:
  - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
- - I did several presentations as speaker in JavaScript Conferences around the world. Most remarkables: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
+ - I did several presentations as speaker, and also invited as JS influencer, to several JavaScript Conferences around the world. Most c: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
 
 --- 
  

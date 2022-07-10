@@ -9,7 +9,7 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350. Headquartered in London, Luno operates across Africa, South East Asia and Europe. Luno's products and services make it safe and easy to buy, store and learn about cryptocurrencies.
+ - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350 and the headquartered in London. I'm helping Luno to improve their products and services to make it safe and easy to trade cryptocurrencies.
 
 --- 
 
@@ -18,21 +18,21 @@
  - I did several presentations as speaker, and also invited as JS influencer, to several JavaScript Conferences around the world: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
  
 ### 📢 Speaker
-* [SpainJS (Madrid):](https://leolanese.com/spainjs/)
-* [ScotlandJS (Edinburgh)](https://leolanese.com/scotlandjs/)
-* [JSConf (Buenos Aires)](https://leolanese.com/jsconf/)
+* [`SpainJS` (Madrid, Spain):](https://leolanese.com/spainjs/)
+* [`ScotlandJS` (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
+* [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
 
-### 🧪 Running Workshops on several clients in London: 
- * [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
- * [Functional (Programming) mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
- * [Becoming Functional](https://leolanese.github.io/Becoming-Functional/)
- * [Practical Functional Programming](https://github.com/leolanese/practical_functional_programming)
- * [The new multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
- * [Building a Responsive Future-friendly Web](http://leolanese.com/workshop/)
+### 🧪 Running Workshops for clients in London: 
+ * [The road to `ECMAScript 6`: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
+ * [`Functional (Programming)` mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
+ * [Becoming `Functional` (Programming)`](https://leolanese.github.io/Becoming-Functional/)
+ * [Practical` Functional Programming`](https://github.com/leolanese/practical_functional_programming)
+ * [The new `RWD` multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
+ * [Building a `Responsive Future-friendly Web`](http://leolanese.com/workshop/)
   
 ### 👨🏼‍🏫 What I collaborated:
- * [`Influencer on JavaScript Conference`: `Advance ReactJS` London, UK](https://reactadvanced.com/)
- * [`Reviewed` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing London, UK.](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
+ * [`Influencer` on JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
+ * [`Reviewer` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
 ---
  

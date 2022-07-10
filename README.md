@@ -27,7 +27,7 @@
 ### 🧪 Running Workshops for clients in London: 
  * [The road to `ECMAScript 6`: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
  * [`Functional (Programming)` mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
- * [Becoming `Functional` (Programming)`](https://leolanese.github.io/Becoming-Functional/)
+ * [Becoming `Functional (Programming)`](https://leolanese.github.io/Becoming-Functional/)
  * [Practical` Functional Programming`](https://github.com/leolanese/practical_functional_programming)
  * [The new `RWD` multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
  * [Building a `Responsive Future-friendly Web`](http://leolanese.com/workshop/)

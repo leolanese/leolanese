@@ -115,13 +115,13 @@
     <img alt="Leo Lanese Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.leolanese.com/">
-    <img alt="Leo Lanese Portfolio/WebSite" src="https://img.shields.io/badge/website-yellow?style=for-the-badge">
+    <img alt="Leo Lanese Portfolio" src="https://img.shields.io/badge/website-yellow?style=for-the-badge">
   </a>
   <a href="http://www.dev.to/leolanese">
-    <img alt="Dev Blog" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white">
+    <img alt="Leo Lanese Dev Blog" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white">
   </a>
    <a href="http://www.leolanese.com/blog">
-    <img alt="Personal Blog" src="https://img.shields.io/badge/blog-ededed?style=for-the-badge&logo=red&logoColor=white">
+    <img alt="Leo Lanese Personal Blog" src="https://img.shields.io/badge/blog-ededed?style=for-the-badge&logo=red&logoColor=white">
   </a>
 </div>
 

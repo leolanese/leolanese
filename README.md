@@ -19,6 +19,7 @@
  
 ###  Links
 * [SpainJS (Madrid):](https://leolanese.com/spainjs/)
+* [ScotlandJS (Edinburgh)](https://leolanese.com/scotlandjs/)
 
 
 --- 

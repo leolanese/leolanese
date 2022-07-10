@@ -32,7 +32,7 @@
  * [The new `RWD` multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
  * [Building a `Responsive Future-friendly Web`](http://leolanese.com/workshop/)
   
-### 👨🏼‍🏫 What I collaborated:
+### 🤜🤛 What I collaborated:
  * [`Influencer` on JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
  * [`Reviewer` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
@@ -115,7 +115,7 @@
     <img alt="Leo Lanese Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.leolanese.com/">
-    <img alt="Leo Lanese Portfolio" src="https://img.shields.io/badge/website-yellow?style=for-the-badge">
+    <img alt="Leo Lanese Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   <a href="http://www.dev.to/leolanese">
     <img alt="Leo Lanese Dev Blog" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white">

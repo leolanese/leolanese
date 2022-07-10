@@ -49,8 +49,9 @@
  - ... and anything in general! 😀
 
 --- 
+### 📓 Tech Stack:
  
-### 📓 Tech Stack: Languages and Tools:
+### 📓 Most relevants Languages and Tools:
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-ad9e37?logo=javascript" />
   <img src="https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label" />
@@ -59,7 +60,7 @@
 </div>
 
   
-### 🖥️ Tech Stack: Framework and Libraries
+### 🖥️ Most relevants Framework and Libraries
 <div>
   <img src="https://img.shields.io/badge/-Angular2+-dd0031?logo=angular"  /> 
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat" /> 
@@ -69,7 +70,7 @@
 </div>
  
  
-### 📓 Tech Stack: Angular and React ecosystem
+### 📓 Most relevants Angular and React ecosystem tools
 <div>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />

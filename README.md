@@ -22,20 +22,18 @@
 * [ScotlandJS (Edinburgh)](https://leolanese.com/scotlandjs/)
 * [JSConf (Buenos Aires)](https://leolanese.com/jsconf/)
 
- ### 🧪 Running Workshops on several clients in London: 
+### 🧪 Running Workshops on several clients in London: 
  * [The road to ECMAScript 6: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
  * [Functional (Programming) mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
  * [Becoming Functional](https://leolanese.github.io/Becoming-Functional/)
  * [Practical Functional Programming](https://github.com/leolanese/practical_functional_programming)
  * [The new multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
  * [Building a Responsive Future-friendly Web](http://leolanese.com/workshop/)
- 
---- 
- 
+  
 ### 👨🏼‍🏫 What I collaborated:
-- `Collaborate and review` technical books`: Angular Packt Publishing, "Deploying AngularJS", Packt Publishing London, UK.
-- `Influencer on JavaScript Conferences`: `Advance ReactJS` London, UK.
- 
+ * `Influencer on JavaScript Conference`: `Advance ReactJS` London, UK.
+ * `Reviewed` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing London, UK.
+
 ---
  
 ### 🌱 What I'm currently learning: 

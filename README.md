@@ -1,11 +1,13 @@
 <div align="center">
 
- ## Hi there, I'm Leo 👋 
+  ## Hi there, I'm Leo 👋 
+   
+  <i>I'm a Senior Software Developer, living and working in London UK. Across the ten years I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programing and Responsive Web Design practices.
+  </i>
 
-<i>I'm a Senior Software Developer, living and working in London UK. Across the ten years I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks. I'm proficient in Functional Programing and Responsive Web Design practices.</i>
- 
 </div>
  
+
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
@@ -17,7 +19,7 @@
  - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
  - I did several presentations as speaker, and also invited as JS influencer, to several JavaScript Conferences around the world: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
  
-### 📢 Speaker
+### 📢 Speaker:
 * [`SpainJS` (Madrid, Spain):](https://leolanese.com/spainjs/)
 * [`ScotlandJS` (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
 * [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)

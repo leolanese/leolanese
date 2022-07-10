@@ -31,8 +31,8 @@
  * [Building a Responsive Future-friendly Web](http://leolanese.com/workshop/)
   
 ### 👨🏼‍🏫 What I collaborated:
- * `Influencer on JavaScript Conference`: `Advance ReactJS` London, UK.
- * `Reviewed` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing London, UK.
+ * [`Influencer on JavaScript Conference`: `Advance ReactJS` London, UK](https://reactadvanced.com/)
+ * [`Reviewed` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing London, UK.](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
 ---
  

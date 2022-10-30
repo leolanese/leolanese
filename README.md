@@ -48,11 +48,11 @@
 --- 
  
 ### 💬 What people can ask me about:
- - Angular2+
+ - Angular2+, NextJS and ReactJS
  - Responsive Web Design
  - Functional Programing 
- - Mobile UX
- - ... and anything in general! 😀
+ - Agile Methodologies
+ - but ... anything in general! 😀
 
 --- 
 ### 📓 Tech Stack:

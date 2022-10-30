@@ -16,15 +16,17 @@
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like `BBC`, `London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
+ - I have being working in different countries for several clients like `BBC`, `MET - London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Luno`, `Vashi`, between others, producing succesully products that I'm proud of.
  - I did several presentations as speaker, and also invited as JS influencer, to several JavaScript Conferences around the world: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
  
-### 📢 Speaker:
+  
+### 📢 Speaker Conferences:
 * [`SpainJS` (Madrid, Spain):](https://leolanese.com/spainjs/)
 * [`ScotlandJS` (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
 * [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
 
-### 🧪 Running Workshops for clients in London: 
+  
+### 💬 Running Workshops: 
  * [The road to `ECMAScript 6`: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
  * [`Functional (Programming)` mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
  * [Becoming `Functional (Programming)`](https://leolanese.github.io/Becoming-Functional/)
@@ -32,14 +34,16 @@
  * [The new `RWD` multi-screen world](http://leolanese.com/the-new-multi-screen-world/)
  * [Building a `Responsive Future-friendly Web`](http://leolanese.com/workshop/)
   
+  
 ### 🤜🤛 What I collaborated:
  * [`Influencer` on JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
  * [`Reviewer` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
+  
 ---
  
 ### 🌱 What I'm currently learning: 
- - BlockChain, Distributed App, Decentralized Finance (DeFi) and Smart contracts using NextJS, BlitzJS and ReactJS 👍 
+ - Svelte and continue improving few other full-stack techniques 👍 
 
 --- 
  
@@ -82,25 +86,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </div>
 
-<div>
-    <div style="background-color: white"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40" /></div>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
- 
  
 ### 📱 Tech Stack: Software Development practices
 <div>

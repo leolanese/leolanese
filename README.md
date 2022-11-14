@@ -138,6 +138,8 @@
 ### :100: <i>Thanks!</i>
 #### Now, don't be an stranger. Let's stay in touch!
 
+![leolanese’s GitHub image](https://github-business-card.vercel.app/api/github?username=leolanese&dark)
+
 > I'm a passionately curious Front-end Engineer. I like sharing what I know, and learning what I don't. London, UK.
 
 ##### :radio_button: linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">@LeoLaneseltd</a>

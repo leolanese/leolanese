@@ -139,8 +139,14 @@
 #### Now, don't be an stranger. Let's stay in touch!
 
 <div>
+  <a href="default.asp"> 
   <img src="https://github-business-card.vercel.app/api/github?username=leolanese" alt="leolanese's GitHub image" width="50%" />
+  </a>
 </div>  
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 > I'm a passionately curious Front-end Engineer. I like sharing what I know, and learning what I don't. London, UK.
 

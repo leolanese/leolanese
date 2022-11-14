@@ -139,7 +139,7 @@
 #### Now, don't be an stranger. Let's stay in touch!
 
 <div>
-  <a href="default.asp"> 
+  <a href="https://www.linkedin.com/in/leolanese/"> 
     <img src="https://github-business-card.vercel.app/api/github?username=leolanese" alt="leolanese's GitHub image" width="50%" />
   </a>
 </div>  

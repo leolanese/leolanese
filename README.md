@@ -2,7 +2,14 @@
 
   ## Hi there, I'm Leo 👋 
    
-  <i>Self-motivated Software Engineer, living and working in London UK. Over the last fifteen years, I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles indulging tech migration, KYC improvements and UX/UI enhancements across multiple devices.
+  <i>
+   I'm a passionately curious Software Engineer. I like sharing what I know, and learning what I don't. 
+  </i>
+  
+  <i>
+   I'm living and working in London UK. Over the last fifteen years, I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices.
+
+I've had the privilege to work, and live, in different countries and different cultures like Argentina, Spain, the UK and Germany where I not just learnt and made valuable contributions to great projects but made great colleges. I also had the honour to do presentations around the world as part of different Javascript Conferences 
   </i>
 
 </div>
@@ -11,7 +18,7 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Working at `Luno Fintech Finance`. Luno is a leading global `cryptocurrency company` with over 5 million customers in 40 countries and a team of over 350 and the headquartered in London. I'm helping Luno to improve their products and services to make it safe and easy to trade cryptocurrencies.
+ - Working at `ADSS Abu Shadi`. ADSS is a private financial services firm headquartered in Abu Dhabi that offers online trading, investment, wealth management and asset management services for institutional, private and retail clients. It is the biggest foreign-exchange trader in the Middle East and North Africa (MENA) and serves central banks, asset managers, brokerage firms, and hedge funds.
 
 --- 
 

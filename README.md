@@ -2,7 +2,7 @@
 
   ## Hi there, I'm Leo 👋 
    
-  <i>I'm a Senior Software Developer, living and working in London UK. Across the last fifteen years I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles indulging tech migration, KYC improvements and UX/UI enhancements across multiple devices.
+  <i>Self-motivated Software Engineer, living and working in London UK. Over the last fifteen years, I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles indulging tech migration, KYC improvements and UX/UI enhancements across multiple devices.
   </i>
 
 </div>

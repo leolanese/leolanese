@@ -4,8 +4,10 @@
    I'm a passionately curious Software Engineer. I like sharing what I know, and learning what I don't. 
   </i>
   
+  <br /><br />
+  
   <i>
-   I live and work in London UK. Over the last fifteen years, I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices.
+   I live and work in London, UK. Over the last fifteen years, I have solid industry experience in finance and e-commerce applications, specialising in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices.
   </i>
   
   <br /><br />

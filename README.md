@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi there, I'm Leo 👋 
+  <h2> Hi there, I'm Leo 👋 </h2>
   <i>
    I'm a passionately curious Software Engineer. I like sharing what I know, and learning what I don't. 
   </i>

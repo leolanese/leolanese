@@ -3,6 +3,7 @@
   <i>
    I'm a passionately curious Software Engineer. I like sharing what I know, and learning what I don't. 
   </i>
+  <br />
 </div>
 
 <br />
@@ -23,7 +24,7 @@ Throughout my career, I have had the privilege to live and work in countries and
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Working at `ADSS Abu Shadi`. ADSS is a private financial services firm headquartered in Abu Dhabi that offers online trading, investment, wealth management and asset management services for institutional, private and retail clients. It is the biggest foreign-exchange trader in the Middle East and North Africa (MENA) and serves central banks, asset managers, brokerage firms, and hedge funds.
+ - Working at `ADS Services` (United Arab Emirates). ADSS is a private financial services firm headquartered in Abu Dhabi that offers online trading, investment, wealth management and asset management services for institutional, private and retail clients. It is the biggest foreign-exchange trader in the Middle East and North Africa (MENA) and serves central banks, asset managers, brokerage firms, and hedge funds.
 
 --- 
 

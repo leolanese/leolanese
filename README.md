@@ -1,7 +1,5 @@
 <div align="center">
-
   ## Hi there, I'm Leo 👋 
-   
   <i>
    I'm a passionately curious Software Engineer. I like sharing what I know, and learning what I don't. 
   </i>
@@ -9,9 +7,8 @@
   <i>
    I live and work in London UK. Over the last fifteen years, I made a solid industry experience in finance and e-commerce applications, specializing in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices.
 
-I've had the privilege to work, and live, in different countries and different cultures like Argentina, Spain, the UK and Germany where I not just learnt and made valuable contributions to great projects but made great colleges. I also had the honour to do presentations around the world as part of different Javascript Conferences 
+Throughout my career, I have had the privilege to live and work in countries and cultures such as Argentina, Spain, the UK, and Germany where I have not only learned valuable lessons but also made great friends. Aside from this, I have had the pleasure of presenting at various Javascript conferences around the world. 
   </i>
-
 </div>
  
 

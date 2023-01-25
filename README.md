@@ -10,7 +10,7 @@
 
 <div align="left">
   <i>
-   I live and work in London, UK. Over the last fifteen years, I have solid industry experience in finance and e-commerce applications, specialising in Front-End using Angular and NextJS frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices.
+   I live and work in London, UK. Over the last fifteen years, I have solid industry experience in finance and e-commerce applications, specialising in Front-End using Angular and React(NextJS) frameworks under Agile Development methodologies. I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices.
   </i>
   
   <br />

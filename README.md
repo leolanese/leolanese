@@ -1,7 +1,7 @@
 <div align="center">
   <h2> Hi there, I'm Leo 👋 </h2>
   <i>
-   I'm a passionately curious Software Engineer. I like sharing what I know, and learning what I don't. 
+   I'm a passionately curious Software Engineer.
   </i>
   <br />
 </div>

@@ -150,7 +150,7 @@ Throughout my career, I have had the privilege to live and work in countries and
 #### Now, don't be an stranger. Let's stay in touch!
 
 <a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer">
-  <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="75%" height="314" />
+  <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="100%" height="314" />
 </a>
 
 ##### :radio_button: Linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">LeoLanese</a>

@@ -149,6 +149,8 @@ Throughout my career, I have had the privilege to live and work in countries and
 ### :100: <i>Thanks!</i>
 #### Now, don't be an stranger. Let's stay in touch!
 
+<a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer"><img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="600" height="314" />
+
 <a href="https://www.linkedin.com/in/leolanese/"> 
   <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese linkedin" width="75%" />
 </a>

@@ -150,7 +150,7 @@ Throughout my career, I have had the privilege to live and work in countries and
 #### Now, don't be an stranger. Let's stay in touch!
 
 <a href="https://www.linkedin.com/in/leolanese/"> 
-  <img src="https://github-business-card.vercel.app/api/github?username=leolanese" alt="leolanese's linkedin" width="75%" />
+  <img src="[https://github-business-card.vercel.app/api/github?username=leolanese](https://scastiel.dev/api/image/leolanese)" alt="leolanese's linkedin" width="75%" />
 </a>
 
 ##### :radio_button: Linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">LeoLanese</a>

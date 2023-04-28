@@ -50,11 +50,10 @@ Throughout my career, I have had the privilege to live and work in countries and
  * [`Influencer` on JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
  * [`Reviewer` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
-  
 ---
  
-### 🌱 What I'm currently learning: 
- - Svelte and continue improving few other full-stack techniques 👍 
+### 🌱 What I'm currently learning and investigating: 
+ - Angular Signal and new NextJS/ReactJS trends and techniques 👍 
 
 --- 
  

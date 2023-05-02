@@ -109,17 +109,7 @@ Throughout my career, I have had the privilege to live and work in countries and
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="width: 70px" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="width: 70px" />
 </div> 
-
-
-### 🔍 What I'm doing in my spare time: 
-  
-<div style="width:100%; margin:0 auto;">
  
- ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolanese&count_private=true&show_icons=true&include_all_commits=true&theme=monokai)
-
-</div>
-
-  
 ### 📬 How to reach me:  
 
 <div align="left">

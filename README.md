@@ -31,22 +31,21 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Working at `ADS Services` financial services remotly from London, UK. ADSS is a private financial services firm headquartered in Abu Dhabi, United Arab Emirates, that offers online trading, investment, wealth management and asset management services for institutional, private and retail clients. It is the biggest foreign-exchange trader in the Middle East and North Africa (MENA) and serves central banks, asset managers, brokerage firms, and hedge funds.
+ - Currently working at `ADS Services` financial services remotly from London, United Kingdom. ADSS is a private financial services firm headquartered in Abu Dhabi, United Arab Emirates, that offers online trading, investment, wealth management and asset management services for institutional, private and retail clients. It is the biggest foreign-exchange trader in the Middle East and North Africa (MENA) and serves central banks, asset managers, brokerage firms, and hedge funds.
 
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like `BBC`, `MET - London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Luno`, `Vashi`, between others, producing succesully products that I'm proud of.
- - I did several presentations as speaker, and also invited as JS influencer, to several JavaScript Conferences around the world: `SpainJS (Madrid)`, `ScotlandJS (Edinburgh)` and `JSConf (Buenos Aires)`.
+ - I have being working in different countries for several clients like: `Luno`, `BBC`, `MET - London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
  
   
-### 📢 Speaker Conferences:
-* [`SpainJS` (Madrid, Spain):](https://leolanese.com/spainjs/)
-* [`ScotlandJS` (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
-* [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
+### 📢 Featured Speaker Conferences:
+* [`SpainJS` 🇪🇸 (Madrid, Spain):](https://leolanese.com/spainjs/)
+* [`ScotlandJS` 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
+* [`JSConf` 🇦🇷 (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
 
   
-### 💬 Running Workshops: 
+### 👨‍🏫 Leading Workshos: 
  * [The road to `ECMAScript 6`: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
  * [`Functional (Programming)` mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
  * [Becoming `Functional (Programming)`](https://leolanese.github.io/Becoming-Functional/)

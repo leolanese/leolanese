@@ -1,8 +1,8 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h3>
+  <h3><i>
    I'm a passionately curious Software Engineer, specialising in Front-End under Agile Development methodologies.
-  </h3>
+    </i></h3>
   <br />
 </div>
 
@@ -17,7 +17,7 @@
 <br />  
   
 <i>
-  I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom and I may be open for new opportunitites, please don't hesitate to contact me.
+  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but normally taking remote and hubrid opportunities. Please, don't hesitate to [contact me]<developer@leolanese.com>
 
 <br /><br />
 

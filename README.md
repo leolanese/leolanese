@@ -17,7 +17,7 @@
 <br />  
   
 <i>
-  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but normally taking remote and hubrid opportunities. Please, don't hesitate to [contact me]<developer@leolanese.com>
+  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but normally taking remote and hubrid opportunities. Please, don't hesitate to <developer@leolanese.com>
 
 <br /><br />
 

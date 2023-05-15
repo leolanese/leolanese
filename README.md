@@ -11,7 +11,7 @@
 <div align="left">
 
 <i>
-  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in Front-End using Angular and React(NextJS) frameworks under Agile and Scrum Development methodologies. 
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in Front-End using `Angular` and `React(NextJS)` frameworks under `Agile` and Scrum Development methodologies. 
 </i>
   
 <br />  

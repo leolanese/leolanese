@@ -11,12 +11,18 @@
 <div align="left">
 
 <i>
-Currently, I live and operate in London, United Kingdom. Throughout the past fifteen years, I have developed extensive expertise in the finance and e-commerce sectors, particularly in the development of intricate applications. I have dedicated significant time to honing my skills in Front-End development, specifically utilizing Angular and React (NextJS) frameworks within the context of Agile Development methodologies. Additionally, I possess proficiency in Functional Programming and Responsive Web Design principles. I hold a strong interest in roles that involve technology migration, KYC (Know Your Customer) enhancements, and UX/UI improvements across various devices.
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in Front-End using Angular and React(NextJS) frameworks under Agile and Scrum Development methodologies. 
 </i>
+  
+<br />  
+  
+<i>
+  I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom and I may be open for new opportunitites, please don't hesitate to contact me.
+
 <br />
 
 <i>
-Throughout my career, I have had the privilege to live and work in countries and cultures such as Argentina, Spain, the UK, and Germany where I have not only learned valuable lessons but also made great friends. Aside from this, I have had the pleasure of presenting at various Javascript conferences around the world.
+   Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including Argentina, Spain, the United Kingdom, and Germany. These experiences have not only enriched my understanding of global dynamics but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Moreover, I have had the honor of delivering presentations at prestigious JavaScript conferences across the globe, further cementing my expertise in the field.
 </i>
 </div>
 

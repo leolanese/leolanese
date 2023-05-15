@@ -19,7 +19,7 @@
 <i>
   I'm proficient in Functional Programming and Responsive Web Design practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom and I may be open for new opportunitites, please don't hesitate to contact me.
 
-<br />
+<br /><br />
 
 <i>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including Argentina, Spain, the United Kingdom, and Germany. These experiences have not only enriched my understanding of global dynamics but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Moreover, I have had the honor of delivering presentations at prestigious JavaScript conferences across the globe, further cementing my expertise in the field.

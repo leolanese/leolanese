@@ -47,7 +47,7 @@ Throughout my career, I have had the privilege to live and work in countries and
   
   
 ### 🤜🤛 What I collaborated:
- * [`Influencer` on JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
+ * [`JS Expert` invited to JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
  * [`Reviewer` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
 ---

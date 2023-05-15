@@ -1,8 +1,8 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <i>
+  <h3>
    I'm a passionately curious Software Engineer, specialising in Front-End under Agile Development methodologies.
-  </i>
+  </h3>
   <br />
 </div>
 
@@ -26,7 +26,7 @@
 </i>
 </div>
 
- 
+ ---
 
 <div align="left">
  

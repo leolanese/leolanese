@@ -1,7 +1,7 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
   <h4><i>
-   I'm a passionately curious Software Engineer, specialising in Front-End under Agile Development methodologies.
+   I'm a passionately curious `Software Engineer`, specialising in `Front-End` under `Agile` Development methodologies.
     </i></h4>
   <br />
 </div>
@@ -11,7 +11,7 @@
 <div align="left">
 
 <i>
-  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in Front-End using `Angular` and `React(NextJS)` frameworks under `Agile` and Scrum Development methodologies. 
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in Front-End using `Angular`, `NodeJS` and `NextJS` frameworks under `Agile` and Scrum Development methodologies. 
 </i>
   
 <br />  
@@ -31,12 +31,12 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Currently working at `ADS Services` financial services remotly from London, United Kingdom. ADSS is a private financial services firm headquartered in Abu Dhabi, United Arab Emirates, that offers online trading, investment, wealth management and asset management services for institutional, private and retail clients. It is the biggest foreign-exchange trader in the Middle East and North Africa (MENA) and serves central banks, asset managers, brokerage firms, and hedge funds.
+ - Just finish contract on my last client and now currently I'm open for new opportunities!
 
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like: `Luno`, `BBC`, `MET - London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `Vashi`, between others, producing succesully products that I'm proud of.
+ - I have being working in different countries for several clients like: `Luno`, `BBC`, `MET - London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `Vashi`, between others, producing succesully products that I'm proud of.
  
   
 ### 📢 Featured Speaker Conferences:

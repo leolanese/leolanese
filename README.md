@@ -40,9 +40,9 @@
  
   
 ### 📢 Featured Speaker Conferences:
-* [`SpainJS` 🇪🇸 (Madrid, Spain):](https://leolanese.com/spainjs/)
-* [`ScotlandJS` 🏴󠁧󠁢󠁳󠁣󠁴󠁿 (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
-* [`JSConf` 🇦🇷 (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
+* [`SpainJS` (Madrid, Spain):](https://leolanese.com/spainjs/)
+* [`ScotlandJS`󠁣󠁴󠁿 (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
+* [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
 
   
 ### 👨‍🏫 Leading Workshos: 

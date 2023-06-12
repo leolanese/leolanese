@@ -55,9 +55,9 @@
   
   
 ### 🤜🤛 What I collaborated:
- * [`OpenJS Foundation Individual Participant` (Supporter) - The Linux Foundation](https://openprofile.dev/profile/leolanese)
- * [`JS Expert` invited to JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
- * [`Reviewer` technical books for Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
+ * [`Supporter OpenJS Foundation Individual Participant` - The Linux Foundation](https://openprofile.dev/profile/leolanese)
+ * [`JS Invited Expert` JavaScript Conference: Advance ReactJS (London, UK)](https://reactadvanced.com/)
+ * [`Technical Reviewer` Angular Packt Publishing, "Deploying Angular", Packt Publishing (London, UK)](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 
 ---
  

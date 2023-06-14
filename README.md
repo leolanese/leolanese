@@ -61,15 +61,16 @@
 
 ---
  
-### 🌱 What I'm currently learning and investigating: 
- - Angular Signal and new NextJS/ReactJS trends and techniques 👍 
+### 🌱 What trends I'm currently learning / investigating: 
+ - Angular is witnessing new exiting trends, and looks very promising future for Angular. At the same time NodeJS continues to push the boundaries, that encorage me to keep moving into the `full-stack-javascript` paradigm, leading to the expansion of frontiers in javascript development 👍 
 
 --- 
  
 ### 💬 What people can ask me about:
- - Angular2+, NextJS and ReactJS
- - Responsive Web Design
- - Functional Programing 
+ - Angular2+, NodeJS
+ - NextJS and ReactJS
+ - Responsive Web Design (RWD)
+ - Functional Programing (FP)
  - Agile Methodologies
  - but ... anything in general! 😀
 

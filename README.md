@@ -67,14 +67,16 @@
 --- 
  
 ### 💬 What people can ask me about:
- - Angular2+, NodeJS
- - NextJS and ReactJS
+ - Angular2+. NodeJS
+ - NextJS (ExpressJS, ReactJS)
+ - Agile Methodologies
  - Responsive Web Design (RWD)
  - Functional Programing (FP)
- - Agile Methodologies
- - but ... anything in general! 😀
+ - MongoDB. CouchDB 
+ - ... and few more! 😀
 
 --- 
+  
 ### 👨‍🚀 Tech Stack:
  
 ### 📓 Most relevants Languages and Tools:

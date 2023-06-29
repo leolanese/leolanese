@@ -124,6 +124,8 @@
  
 ### 📬 How to reach me:  
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div align="left">
    <a href="https://www.linkedin.com/in/leolanese/">
     <img alt="Leo Lanese Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

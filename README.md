@@ -10,20 +10,22 @@
 
 <div align="left">
 
-<i>
+<p>
   Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` and "Full-Stack-JavaScript" paradigm using `NodeJS` and `NextJS` frameworks under `Agile` and Scrum Development methodologies. 
-</i>
+</p>
   
 <br />  
   
-<i>
+<p>
   I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but usually taking remote and hybrid opportunities. I'm open for new opportunities at the moment. Please, don't hesitate to contact me.
+</p>
 
 <br /><br />
 
-<i>
+<p>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: 🇦🇷 Argentina, 🇪🇸 Spain, 🇩🇪 Germany, and the 🇬🇧 United Kingdom. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field.
-</i>
+</p>
+
 </div>
 
  ---

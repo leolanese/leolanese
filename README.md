@@ -31,12 +31,12 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Just finish contract on my last client and now currently I'm open for new opportunities!
+ - Freelancer, UK based. Open to opportunities.
 
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like: `Luno`, `BBC`, `MET - London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `Vashi`, between others, producing succesully products that I'm proud of.
+ - I have being working in different countries for several clients like: `Luno`, `BBC`, `MET, London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `The Workshop`, `Vashi` between others, producing succesully products that I'm proud of.
  
   
 ### 📢 Featured Speaker Conferences:

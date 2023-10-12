@@ -1,8 +1,8 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4><i>
+  <h4>
    I'm a passionately curious `Software Engineer`, specialising in `Front-End` and 'Full-Stack-JavaScript' paradigm under `Agile` Development methodologies.
-    </i></h4>
+    </h4>
   <br />
 </div>
 

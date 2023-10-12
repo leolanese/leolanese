@@ -33,7 +33,7 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Freelancer, UK based. Open to opportunities.
+ - Freelancer, UK based.
 
 --- 
 

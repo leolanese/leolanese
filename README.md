@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
   <h4>I'm a passionately curious `Software Engineer`, specialising in `Front-End` and 'Full-Stack-JavaScript' paradigm under `Agile` Development methodologies.</h4>
 </div>

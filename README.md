@@ -23,7 +23,7 @@
 <br /><br />
 
 <p>
-   Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: 🇦🇷 Argentina, 🇪🇸 Spain, 🇩🇪 Germany, and the 🇬🇧 United Kingdom. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field.
+   Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: 🇦🇷 Argentina, 🇪🇸 Spain, 🇩🇪 Germany, and 🇬🇧 United Kingdom. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.
 </p>
 
 </div>
@@ -38,7 +38,7 @@
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like: `Luno`, `BBC`, `MET, London Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `The Workshop`, `Vashi` between others, producing succesully products that I'm proud of.
+ - I have being working in different countries for several clients like: `BBC`, `MET (London Metropolitan Police)`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `Luno`, `The Workshop`, `Vashi` between others, producing succesully products that I'm proud of.
  
   
 ### 📢 Featured Speaker Conferences:
@@ -47,7 +47,7 @@
 * [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
 
   
-### 👨‍🏫 Leading Workshos: 
+### 👨‍🏫 Leading Workshops: 
  * [The road to `ECMAScript 6`: New solutions for old JS problems](https://github.com/leolanese/ES6_workshop)
  * [`Functional (Programming)` mindset](https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-)
  * [Becoming `Functional (Programming)`](https://leolanese.github.io/Becoming-Functional/)
@@ -69,13 +69,14 @@
 --- 
  
 ### 💬 What people can ask me about:
+ - javaScript & typeScript
  - Angular2+. NodeJS
  - NextJS (ExpressJS, ReactJS)
  - Agile Methodologies
  - Responsive Web Design (RWD)
  - Functional Programing (FP)
  - MongoDB. CouchDB 
- - ... and few more! 😀
+ - ... and a few more! 😀
 
 --- 
   

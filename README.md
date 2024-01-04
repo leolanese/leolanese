@@ -8,7 +8,7 @@
 <div align="left">
 
 <p>
-  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or vanilla JS and "Full-Stack-JavaScript" paradigm using `NodeJS` framework under `Agile` and Scrum Development methodologies. 
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or vanilla JS and "Full-Stack" paradigm focus on `NodeJS` and `Python`, under `Agile` and Scrum Development methodologies. 
 </p>
   
 <br />  
@@ -61,17 +61,19 @@
 ---
  
 ### 🌱 What trends I'm currently learning / investigating: 
- - Angular is witnessing new exiting trends, and looks very promising future for Angular. At the same time NodeJS continues to push the boundaries, that encorage me to keep moving into the `full-stack-javascript` paradigm, leading to the expansion of frontiers in javascript development 👍 
+ - Angular is witnessing new exiting trends, and looks very promising future for Angular. At the same time NodeJS and Python continues to push the boundaries, that encorage me to keep moving into the `full-stack` paradigm, leading to the expansion of frontiers in software development 👍 
 
 --- 
  
 ### 💬 What people can ask me about:
+ - Functional Programing (FP)
+ - Responsive Web Design (RWD)
  - javaScript & typeScript
- - Angular2+. NodeJS
+ - Angular2+
+ - NodeJS
+ - Pthon
  - NextJS (ExpressJS, ReactJS)
  - Agile Methodologies
- - Responsive Web Design (RWD)
- - Functional Programing (FP)
  - MongoDB. CouchDB 
  - ... and a few more! 😀
 

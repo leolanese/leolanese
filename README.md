@@ -14,7 +14,7 @@
 <br />  
   
 <p>
-  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but usually taking remote and hybrid opportunities. I'm open for new opportunities at the moment. Please, don't hesitate to contact me.
+  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but usually taking remote and hybrid opportunities. I'm open for new opportunities at the moment!
 </p>
 
 <br /><br />

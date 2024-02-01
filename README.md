@@ -71,7 +71,7 @@
  - javaScript & typeScript
  - Angular2+
  - NodeJS
- - Pthon
+ - Python
  - NextJS (ExpressJS, ReactJS)
  - Agile Methodologies
  - MongoDB. CouchDB 

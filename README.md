@@ -35,7 +35,7 @@
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like: `BBC`, `MET (London Metropolitan Police)`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `Luno`, `The Workshop`, `Vashi` between others, producing succesully products that I'm proud of.
+ - I have being working in different countries for several clients like: `BBC`, `MET (London Metropolitan Police)`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `Luno`, `The Workshop`, `Vashi` between others clients, producing succesully products that I'm proud of.
  
   
 ### 📢 Featured Speaker Conferences:

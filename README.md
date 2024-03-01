@@ -5,8 +5,19 @@
 
 <br />
 
-<div align="left">
+<div align="centre">
 
+> ## 🚀 **Exciting Opportunities Await!**
+> ### I'm currently open for new adventures and opportunities!
+> Let's collaborate together on something amazing! 🌟
+📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
+
+</div>
+
+<br />
+
+
+<div align="left">
 <p>
   Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack" paradigm focus on `NodeJS` and `Python`, under `Agile` and Scrum Development methodologies. 
 </p>
@@ -14,7 +25,7 @@
 <br />  
   
 <p>
-  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but usually taking remote and hybrid opportunities. I'm open for new opportunities at the moment!
+  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but usually taking remote and hybrid opportunities. 
 </p>
 
 <br /><br />

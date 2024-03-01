@@ -41,7 +41,7 @@
 <div align="left">
  
 ### 👨‍💻 What I'm currently working on:
- - Freelancer, UK based.
+ - Freelancing, UK based.
 
 --- 
 
@@ -154,6 +154,10 @@
     <img alt="Leo Lanese Personal Blog" src="https://img.shields.io/badge/blog-ededed?style=for-the-badge&logo=red&logoColor=white">
   </a>
 </div>
+
+
+[![Email](https://img.shields.io/badge/email-Developer%40leolanese.com-informational?style=for-the-badge&logo=email&logoColor=white)](mailto:developer@leolanese.com)
+
 
 <br>
 

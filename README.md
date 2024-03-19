@@ -16,7 +16,6 @@
 
 <br />
 
-
 <div align="left">
 <p>
   Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack" paradigm focus on `NodeJS` and `Python`, under `Agile` and Scrum Development methodologies. 
@@ -40,8 +39,7 @@
 
 <div align="left">
  
-### 👨‍💻 What I'm currently working on:
- - Helping a UK Charity CYF https://codeyourfuture.io/ 
+
 
 --- 
 
@@ -71,16 +69,19 @@
 
 ---
  
-### ♻️ What trends I'm currently learning / investigating: 
- - Angular is witnessing new exiting trends, and looks very promising future for Angular! Also continuing pushing the boundaries with `NodeJS` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
+### 👨‍💻  What I'm doing at the moment: 
+ - I'm currently helping in a UK Charity CYF `https://codeyourfuture.io/`. CodeYourFuture is an organization that helps people that are affected by forced
+diaspora to get back on track by teaching Web Development. I'm helping to make a positive impact on others peoples life. Sharing knowledge that can empower aspiring developers and contribute to the growth of the programming community.
+ - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries with `NodeJS` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
 
 --- 
  
 ### 💬 What people can ask me about:
+ - Angular2+
+ - JavaScript & TypeScript
+
  - Functional Programing (FP)
  - Responsive Web Design (RWD)
- - JavaScript & TypeScript
- - Angular2+
  - NodeJS
  - Python
  - NextJS (ExpressJS, ReactJS)

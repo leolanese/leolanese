@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious `Software Engineer`, specialising in `Front-End` and 'Full-Stack' paradigm under `Agile` Development methodologies.</h4>
+  <h4>I'm a passionately curious `Software Engineer` and `Software Engineering Manager`, working under `Agile` Software Development methodologies.</h4>
 </div>
 
 <br />
@@ -20,18 +20,46 @@
 <p>
   Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack" paradigm focus on `NodeJS` and `Python`, under `Agile` and Scrum Development methodologies. 
 </p>
-  
-<br />  
-  
-<p>
-  I'm proficient in `Functional Programming` and `Responsive Web Design` practices. A keen interest in roles involving tech migration, KYC improvements and UX/UI enhancements across multiple devices. I live and work in London, United Kingdom but usually taking remote and hybrid opportunities. 
-</p>
-
-<br /><br />
-
 <p>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.
 </p>
+  
+<br />  
+  
+### What I'm doing as Senior Software Engineering Manager? 🚀
+
+
+As a Senior Software Engineering Manager, I'm responsible for a range of crucial tasks aimed at fostering growth, innovation, and success within the engineering team. Here's what I do:
+
+1. **Supporting Personal Growth**: I actively mentor and guide engineers in their career development, helping them set goals and providing opportunities for skill enhancement.
+
+2. **Conflict Resolution**: I act as a mediator in conflicts, employing situational leadership strategies to address internal and external conflicts effectively.
+
+3. **Motivation and Inspiration**: It's my role to keep the team motivated and inspire them to consistently perform at their best.
+
+4. **Facilitating Actions and Managing Goals**: I facilitate actions and manage SMART goals for team members, conducting regular one-on-one meetings and mentoring sessions to ensure alignment with cross-functional agile methodologies.
+
+5. **Innovation and Idea Generation**: I contribute to creating new values and proposing innovative ideas to drive the team and product forward.
+
+6. **Empowerment and Collaboration**: Actively promoting team empowerment, I collaborate with engineering, product, and design leaders to define and execute a vision and strategy for the Self Serve space.
+
+7. **Culture Building**: Nurturing a healthy team culture is a priority, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
+
+8. **Continuous Improvement**: I seek continual improvements in company culture and team processes, always striving to make things better.
+
+9. **Technical and Personal Support**: Handling and mitigating technical and personal matters within the team, I promote ownership, influence, and effective communication.
+
+10. **Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
+
+11. **Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
+
+In essence, my SEM roles revolves around leadership, mentorship, innovation, and culture-building to drive both individual and collective success within the engineering team and the broader organization.
+
+
+
+<br /><br />
+
+
 
 </div>
 

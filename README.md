@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious `Software Engineer` and `Software Engineering Manager`, specilised on `Angular` and `NodeJS` working with `Agile` Software Development methodologies.</h4>
+  <h4>I'm a passionately curious `Software Engineer` and `Software Engineering Manager`, specialised in `Angular` and `NodeJS` working with `Agile` Software Development methodologies.</h4>
 </div>
 
 <br />
@@ -9,7 +9,7 @@
 
 > ## 🚀 **Exciting Opportunities Await!**
 > ### I'm currently open for new adventures and opportunities!
-> Let's collaborate together on something amazing! 🌟
+> Let's work together and create something amazing! 🌟
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
 
 </div>

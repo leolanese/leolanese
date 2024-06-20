@@ -18,7 +18,7 @@
 
 <div align="left">
 <p>
-  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack" paradigm focus on `NodeJS` and `Python`, under `Agile` and Scrum Development methodologies. 
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack" development paradigm focus on `NodeJS` and `Python` under `Agile` methodologies. 
 </p>
 <p>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.
@@ -36,7 +36,7 @@ I'm responsible for a range of crucial tasks aimed at fostering growth, innovati
 
 3. **Conflict Resolution**: I act as a mediator in conflicts, employing situational leadership strategies to address internal and external conflicts effectively. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
 
-4. **Motivation and Inspiration**: It's my role to keep the team motivated and inspire them to consistently perform at their best. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I become an inspired leader who encaourage the healthy team culture and not striving for the Development of great team, not just software.
+4. **Motivation and Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I become an inspired leader who encaourage the healthy team culture and not striving for the Development of great team, not just software.
 
 5. **Culture Building**: Nurturing a healthy team culture is a priority, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
 

@@ -23,12 +23,28 @@
 <p>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.
 </p>
+  
+<br />
+
+### What I'm doing as Senior Front-End / Full-Stack Engineer? 🚀
+
+I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
+
+1. **The nice one**: Be a developer that everybody wants to work with. It's not all about the code.
+
+2. **Show Strong Team Player Skills**: Actively collaborate and integrate to foster team engagement and uphold company culture.
+
+3. **Be curious**: As an "`Software Engineering Manager` or `Software Engineer`, your brain is your greatest asset". Be actibly looking for new challenges, move out of comfortable zone and be eager to learn
+
+4. **Deep understanding**: Do no create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. Software Engineer is about provide a solution for a problem using tech. 
 
 <br />  
  
 ### What I'm doing as Senior Software Engineering Manager? 🚀
 
-I'm responsible for a range of crucial tasks aimed at fostering growth, innovation, and success within the engineering team. Here's what I do:
+> A truly great leader is hard to find, difficult to part with and impossible to forget.
+
+I'm responsible for a range of crucial tasks aimed at promoting growth, innovation, and success within the engineering team. Here is what I do:
 
 1. **Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 

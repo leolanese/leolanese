@@ -30,33 +30,27 @@
 
 I'm responsible for a range of crucial tasks aimed at fostering growth, innovation, and success within the engineering team. Here's what I do:
 
-1. **Servat Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
+1. **Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 
-2. **Supporting Personal Growth**: I actively mentor and guide engineers in their career development, helping them set goals and providing opportunities for skill enhancement.
+2. **Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 
-3. **Conflict Resolution**: I act as a mediator in conflicts, employing situational leadership strategies to address internal and external conflicts effectively.
+3. **Conflict Resolution**: I act as a mediator in conflicts, employing situational leadership strategies to address internal and external conflicts effectively. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
 
-4. **Motivation and Inspiration**: It's my role to keep the team motivated and inspire them to consistently perform at their best.
+4. **Motivation and Inspiration**: It's my role to keep the team motivated and inspire them to consistently perform at their best. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I become an inspired leader who encaourage the healthy team culture and not striving for the Development of great team, not just software.
 
-5. **Facilitating Actions and Managing Goals**: I facilitate actions and manage SMART goals for team members, conducting regular one-on-one meetings and mentoring sessions to ensure alignment with cross-functional agile methodologies.
+5. **Culture Building**: Nurturing a healthy team culture is a priority, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
 
-6. **Innovation and Idea Generation**: I contribute to creating new values and proposing innovative ideas to drive the team and product forward.
+6. **Continuous Improvement**: Focus on the long-term growth and development of your team members and organisation. Encourage the sense of ownership and responsibility among your team members.
 
-7. **Empowerment and Collaboration**: Actively promoting team empowerment, I collaborate with engineering, product, and design leaders to define and execute a vision and strategy for the Self Serve space.
+7. **Technical & Personal Support**: Handling and mitigating technical and personal matters within the team, I promote ownership, influence, and effective communication with compassion. Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
 
-8. **Culture Building**: Nurturing a healthy team culture is a priority, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
+8. **Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
 
-9. **Continuous Improvement**: I seek continual improvements in company culture and team processes, always striving to make things better.
-
-10. **Technical and Personal Support**: Handling and mitigating technical and personal matters within the team, I promote ownership, influence, and effective communication.
-
-11. **Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
-
-12. **Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
+9. **Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
 
 
 In essence, SEM roles revolves around leadership, mentorship, innovation, and culture-building to drive both individual and collective success within the engineering team and the broader organisation.
-
+By embracing servant leadership and Agile we can provide for an environment where our teams thrive, achieving remarkable results both individually and collectively.
 
 <br /><br />
 

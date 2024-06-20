@@ -96,6 +96,7 @@ diaspora to get back on track by teaching Web Development. I'm helping to make a
 ### 💬 What people can ask me about:
  - Angular2+
  - JavaScript & TypeScript
+ - AWS
 
  - Functional Programing (FP)
  - Responsive Web Design (RWD)

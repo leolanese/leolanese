@@ -34,15 +34,15 @@ I'm responsible for a range of crucial tasks aimed at fostering growth, innovati
 
 2. **Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 
-3. **Conflict Resolution**: I act as a mediator in conflicts, employing situational leadership strategies to address internal and external conflicts effectively. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
+3. **Conflict Resolution**: I act as a mediator in conflicts, `employing situational leadership strategies to address internal and external conflicts effectively`. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
 
-4. **Motivation and Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I become an inspired leader who encaourage the healthy team culture and not striving for the Development of great team, not just software.
+4. **Motivation and Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I integrate `Situational Leadership principles` to adapt motivational strategies based on individual and team dynamics
 
-5. **Culture Building**: Nurturing a healthy team culture is a priority, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
+5. **Culture Building**: `Nurturing a healthy team culture is a priority`, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
 
-6. **Continuous Improvement**: Focus on the long-term growth and development of your team members and organisation. Encourage the sense of ownership and responsibility among your team members.
+6. **Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
 
-7. **Technical & Personal Support**: Handling and mitigating technical and personal matters within the team, I promote ownership, influence, and effective communication with compassion. Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
+7. **Technical & Personal Support**: Handling and mitigating technical & personal matters within the team, I promote ownership, influence, and effective communication with compassion: Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
 
 8. **Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
 
@@ -53,7 +53,6 @@ In essence, SEM roles revolves around leadership, mentorship, innovation, and cu
 By embracing servant leadership and Agile we can provide for an environment where our teams thrive, achieving remarkable results both individually and collectively.
 
 <br /><br />
-
 
 
 </div>

@@ -64,9 +64,9 @@ I'm responsible for a range of crucial tasks aimed at promoting growth, innovati
 
 9. **Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
 
+In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` and `culture-building` to drive both individual and collective success within the engineering team and the broader organisation. By embracing `servant leadership` and `Agile` we can provide for an environment where our teams thrive, achieving remarkable results both individually and collectively. 
 
-In essence, SEM roles revolves around leadership, mentorship, innovation, and culture-building to drive both individual and collective success within the engineering team and the broader organisation.
-By embracing servant leadership and Agile we can provide for an environment where our teams thrive, achieving remarkable results both individually and collectively.
+> Always remember Leading is not about being at the top; it's about serving those who follow you 🙌 
 
 <br /><br />
 

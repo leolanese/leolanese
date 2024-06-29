@@ -7,7 +7,7 @@
 
 <div align="centre">
 
-> ## 🚀 **Exciting Opportunities Await!**
+> ## 🚀 **Exciting Opportunities Await!** 
 > ### I'm currently open for new adventures and opportunities!
 > Let's work together and create something amazing! 🌟
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
@@ -30,13 +30,13 @@
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
-1. 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not all about the code.
+1. ✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not all about the code. 
 
-2. 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagemen` and uphold company culture.
+2. ✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagemen` and uphold company culture.
 
-3. 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, move out of comfortable zone and be eager to learn
+3. ✅ 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, move out of comfortable zone and be eager to learn
 
-4. 🌟**Deep understanding**: Do no create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
+4. ✅ 🌟**Deep understanding**: Do no create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
 
 <br />  
  
@@ -46,25 +46,25 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 I'm responsible for a range of crucial tasks aimed at promoting growth, innovation, and success within the engineering team. Here is what I do:
 
-1. 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
+1. ✅ 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 
-2. 🌟**Situational Leadership** It is an adaptable Model of leadership. Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
+2. ✅ 🌟**Situational Leadership** It is an adaptable Model of leadership. Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
 
-3. 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
+3. ✅ 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 
-4. 🌟**Conflict Resolution**: I act as a mediator in conflicts, `employing situational leadership strategies to address internal and external conflicts effectively`. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
+4. ✅ 🌟**Conflict Resolution**: I act as a mediator in conflicts, `employing situational leadership strategies to address internal and external conflicts effectively`. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
 
-5. 🌟**Motivation & Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I integrate `Situational Leadership principles` to adapt motivational strategies based on individual and team dynamics
+5. ✅ 🌟**Motivation & Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I integrate `Situational Leadership principles` to adapt motivational strategies based on individual and team dynamics
 
-6. 🌟**Culture Building**: `Nurturing a healthy team culture is a priority`, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
+6. ✅ 🌟**Culture Building**: `Nurturing a healthy team culture is a priority`, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
 
-7. 🌟**Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
+7. ✅ 🌟**Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
 
-8. 🌟**Technical & Personal Support**: Handling and mitigating technical & personal matters within the team, I promote ownership, influence, and effective communication with compassion: Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
+8. ✅ 🌟**Technical & Personal Support**: Handling and mitigating technical & personal matters within the team, I promote ownership, influence, and effective communication with compassion: Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
 
-9. 🌟**Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
+9. ✅ 🌟**Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
 
-10. 🌟**Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
+10. ✅ 🌟**Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
 
 In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` and `culture-building` to drive `both individual and collective success` within the engineering team and the broader organisation. By embracing `servant leadership`, `situational leadership` and `Agile` I can provide for an environment where the teams thrive, achieving remarkable results. 
 

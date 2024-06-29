@@ -30,13 +30,13 @@
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
-1. ✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not all about the code. 
+✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not all about the code. 
 
-2. ✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagemen` and uphold company culture.
+✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagemen` and uphold company culture.
 
-3. ✅ 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, move out of comfortable zone and be eager to learn
+✅ 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, move out of comfortable zone and be eager to learn
 
-4. ✅ 🌟**Deep understanding**: Do no create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
+✅ 🌟**Deep understanding**: Do no create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
 
 <br />  
  
@@ -46,25 +46,25 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 I'm responsible for a range of crucial tasks aimed at promoting growth, innovation, and success within the engineering team. Here is what I do:
 
-1. ✅ 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
+✅ 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 
-2. ✅ 🌟**Situational Leadership** It is an adaptable Model of leadership. Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
+✅ 🌟**Situational Leadership** It is an adaptable Model of leadership. Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
 
-3. ✅ 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
+✅ 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 
-4. ✅ 🌟**Conflict Resolution**: I act as a mediator in conflicts, `employing situational leadership strategies to address internal and external conflicts effectively`. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
+✅ 🌟**Conflict Resolution**: I act as a mediator in conflicts, `employing situational leadership strategies to address internal and external conflicts effectively`. I'm using `Deal with Comflicts` trainning education and professional experience to deal with it.
 
-5. ✅ 🌟**Motivation & Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I integrate `Situational Leadership principles` to adapt motivational strategies based on individual and team dynamics
+✅ 🌟**Motivation & Inspiration**: It's my role to `keep the team motivated and inspire them to consistently perform at their best`. Servant leaders consider the impacts of actions and decisions in the long-term, rely on persuasion rather than command and coercion to build influence. I integrate `Situational Leadership principles` to adapt motivational strategies based on individual and team dynamics
 
-6. ✅ 🌟**Culture Building**: `Nurturing a healthy team culture is a priority`, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
+✅ 🌟**Culture Building**: `Nurturing a healthy team culture is a priority`, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
 
-7. ✅ 🌟**Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
+✅ 🌟**Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
 
-8. ✅ 🌟**Technical & Personal Support**: Handling and mitigating technical & personal matters within the team, I promote ownership, influence, and effective communication with compassion: Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
+✅ 🌟**Technical & Personal Support**: Handling and mitigating technical & personal matters within the team, I promote ownership, influence, and effective communication with compassion: Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
 
-9. ✅ 🌟**Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
+✅ 🌟**Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, encoraging developers to share ideas and guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
 
-10. ✅ 🌟**Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
+✅ 🌟**Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
 
 In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` and `culture-building` to drive `both individual and collective success` within the engineering team and the broader organisation. By embracing `servant leadership`, `situational leadership` and `Agile` I can provide for an environment where the teams thrive, achieving remarkable results. 
 
@@ -104,7 +104,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
  
 ### 👨‍💻  What I'm doing at the moment: 
  - I'm currently helping in a UK Charity CYF `https://codeyourfuture.io/`. CodeYourFuture is an organization that helps people that are affected by forced diaspora to get back on track by teaching Web Development. I'm helping to make a positive impact on others peoples life. Sharing knowledge that can empower aspiring developers and contribute to the growth of the programming community.
- - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries with `NodeJS` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
+ - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries and challenging myself with `AWS`, `NodeJS` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
 
 --- 
  
@@ -113,11 +113,11 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
  - JavaScript & TypeScript
  - AWS (currently seeking my certification!)
 
+ - NodeJS
+ - NextJS (ExpressJS, ReactJS)
  - Functional Programing (FP)
  - Responsive Web Design (RWD)
- - NodeJS
  - Python
- - NextJS (ExpressJS, ReactJS)
  - Agile Methodologies
  - MongoDB. CouchDB 
  - ... and a few more! 😀
@@ -212,3 +212,4 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 ##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
 ##### :radio_button: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
 ##### :radio_button: Questions / Suggestion / Recommendation: developer@leolanese.com
+

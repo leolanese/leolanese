@@ -8,7 +8,7 @@
 <div align="centre">
 
 > ## 🚀 **Exciting Opportunities Await!** 
-> ### I'm currently open for new adventures and opportunities!
+> ### I'm currently `OPEN` and looking for new adventures and opportunities!
 > Let's work together and create something amazing! 🌟
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
 

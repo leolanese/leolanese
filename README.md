@@ -46,11 +46,11 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 As A SEM I'm responsible for a range of crucial tasks aimed at promoting growth, innovation, and success within the engineering team. Here is what I do:
 
-✅ 🌟**Lead with `Empathy` rather than sympathy**: Having the experience of worked in person in a few different countries and cultures gave me a better perspective of "caring". Sympathizing is caring for another's feeling and suffering, whereas `empathy` goes beyond feeling compassion to being able to experience and relay their stories. Compassionate Leadership is the result of combining some traditional leadership tools and most importantly, presenting them from an "empathetic side" (also sympathy to a point), with large doses of compassion. 
+✅ 🌟**Lead with Empathy rather than sympathy**: Having the experience of worked in person in a few different countries and cultures gave me a better perspective of "caring". Sympathizing is caring for another's feeling and suffering, whereas `empathy` goes beyond feeling compassion to being able to experience and relay their stories. Compassionate Leadership is the result of combining some traditional leadership tools and most importantly, presenting them from an "empathetic side" (also sympathy to a point), with large doses of compassion. 
 
 ✅ 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 
-✅ 🌟**Situational Leadership** It is an adaptable "Model of Leadership". Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
+✅ 🌟**Situational Leadership** It is an adaptable "Model of Leadership". Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`. I use my trainning and skills in `Situational Leadership` Model to flexible adapt into individual situations when need it
 
 ✅ 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 

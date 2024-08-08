@@ -8,8 +8,8 @@
 <div align="centre">
 
 > ## **Exciting Opportunities Await!** 🚀
-> ### I'm currently `OPEN` and looking for new adventures and opportunities!
-> Let's work together and create something amazing! 🌟
+> ### I'm currently 🌟`OPEN`🌟 and looking for new adventures and opportunities!
+> Let's work together and create something amazing! 🚀
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
 
 </div>
@@ -18,7 +18,7 @@
 
 <div align="left">
 <p>
-  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack" development paradigm focus on `NodeJS` and `Python` under `Agile` methodologies. 
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack JS" development paradigm focus on `NodeJS` and `Python` under `Agile` methodologies. 
 </p>
 <p>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.
@@ -30,7 +30,7 @@
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
-✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not all about the code. 
+✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not 100% all about the code. 
 
 ✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagemen` and uphold company culture.
 
@@ -44,11 +44,13 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 > Finding a truly exceptional leader is hard to find, parting with them is challenging and impossible to forget.
 
-I'm responsible for a range of crucial tasks aimed at promoting growth, innovation, and success within the engineering team. Here is what I do:
+As A SEM I'm responsible for a range of crucial tasks aimed at promoting growth, innovation, and success within the engineering team. Here is what I do:
+
+✅ 🌟**Lead with `Empathy` rather than sympathy**: Having the experience of worked in person in a few different countries and cultures gave me a better perspective of "caring". Sympathizing is caring for another's feeling and suffering, whereas `empathy` goes beyond feeling compassion to being able to experience and relay their stories. Compassionate Leadership is the result of combining some traditional leadership tools and most importantly, presenting them from an "empathetic side" (also sympathy to a point), with large doses of compassion. 
 
 ✅ 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 
-✅ 🌟**Situational Leadership** It is an adaptable Model of leadership. Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
+✅ 🌟**Situational Leadership** It is an adaptable "Model of Leadership". Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`.
 
 ✅ 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 
@@ -59,8 +61,6 @@ I'm responsible for a range of crucial tasks aimed at promoting growth, innovati
 ✅ 🌟**Culture Building**: `Nurturing a healthy team culture is a priority`, and I iterate on processes and rituals to align with the team's working style while contributing to the evolution of the engineering culture.
 
 ✅ 🌟**Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
-
-✅ 🌟**Technical & Personal Support**: Handling and mitigating technical & personal matters within the team, I promote ownership, influence, and effective communication with compassion: Sympathy enables us to feel sorrow for another's misfortune, while empathy allows us to understand and share their feelings. Compassionate leadership emerges from blending traditional leadership skills with a generous infusion of empathy, sympathy, and compassion.
 
 ✅ 🌟**Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, encoraging developers to share ideas and guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
 
@@ -111,8 +111,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 ### 💬 What people can ask me about:
  - Angular2+
  - JavaScript & TypeScript
- - AWS (currently seeking my certification!)
-
+ - Cloud AWS 
  - NodeJS
  - NextJS (ExpressJS, ReactJS)
  - Functional Programing (FP)

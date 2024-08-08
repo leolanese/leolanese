@@ -32,11 +32,11 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 ✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not 100% all about the code. 
 
-✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagemen` and uphold company culture.
+✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagement` and uphold company culture.
 
-✅ 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, move out of comfortable zone and be eager to learn
+✅ 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, be curious, move out of comfortable zone and be eager to learn.
 
-✅ 🌟**Deep understanding**: Do no create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
+✅ 🌟**Deep understanding**: Don't create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
 
 <br />  
  

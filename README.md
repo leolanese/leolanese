@@ -3,7 +3,7 @@
   <h4>I'm a passionately curious `Software Engineer` and `Software Engineering Manager`, specialised in `Front-end` using `Angular` and `NodeJS` working with `Agile` Software Development methodologies.</h4>
 </div>
 
-<br />
+<br /><br />
 
 <div align="centre">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<br />
+<br /><br />
 
 <div align="left">
 <p>

@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious `Software Engineer`, specialised in `Front-end` using `Angular` and `NodeJS` working with `Agile` Software Development methodologies.</h4>
+  <h4>I'm a passionately curious `Software Engineer`, specialised in `Front-end` using `Angular`, `AWS` and `NodeJS` working with `Agile` Software Development methodologies.</h4>
 </div>
 
 <br /><br />
@@ -18,7 +18,7 @@
 
 <div align="left">
 <p>
-  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack JS" development paradigm focus on `NodeJS` and `Python` under `Agile` methodologies. 
+  Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack JS" development paradigm focus on `NodeJS` and `AWS` under `Agile` methodologies. 
 </p>
 <p>
    Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.

@@ -31,7 +31,7 @@
 
 <br />
 
-### What I'm doing as Senior Front-End / Full-Stack Engineer? 🚀
+### What I'm doing as Senior Front-End Developer? 🚀
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
@@ -39,9 +39,13 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 ✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagement` and uphold company culture.
 
-✅ 🌟**Be curious**: As an `Software Engineering Manager or Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, be curious, move out of comfortable zone and be eager to learn.
+✅ 🌟**Be curious**: As an `Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, be curious, move out of comfortable zone and be eager to learn.
 
 ✅ 🌟**Deep understanding**: Don't create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
+
+✅ 🌟**I Write Practical Code**: Code that's merely "smart" often is an atempt to show how "smart" the author is. However, in my experience, people value and appreciate more when you `focus on solving their problems and making their work easier, rather than showing off technical tricks`.
+
+✅ 🌟**I Write Good Simple Code**: `Hard to test. Not a great code`. I write simple test-oriented declarative code. 
 
 <br />  
  
@@ -73,7 +77,7 @@ As A SEM I'm responsible for a range of crucial tasks aimed at promoting growth,
 
 In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` and `culture-building` to drive `both individual and collective success` within the engineering team and the broader organisation. By embracing `servant leadership`, `situational leadership` and `Agile` I can provide for an environment where the teams thrive, achieving remarkable results. 
 
-> Always remember Leading is not about being at the top; it's about serving those who follow you 🙌 
+> Always remember: `Leading is not about being at the top; it's about serving those who follow you` 🙌 
 
 <br /><br />
 

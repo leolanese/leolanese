@@ -79,7 +79,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 
 > Always remember: `Leading is not about being at the top; it's about serving those who follow you` 🙌 
 
-<br /><br />
+<br />
 
 </div>
 
@@ -113,7 +113,13 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
  
 ### 👨‍💻  What I'm doing at the moment: 
  - I'm currently helping in a UK Charity CYF `https://codeyourfuture.io/`. CodeYourFuture is an organization that helps people that are affected by forced diaspora to get back on track by teaching Web Development. I'm helping to make a positive impact on others peoples life. Sharing knowledge that can empower aspiring developers and contribute to the growth of the programming community.
- - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries and challenging myself with `AWS`, `NodeJS` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
+ - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries and challenging myself with `AWS`, `AI` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
+
+---
+
+### 📓 Further thoughts
+
+> If each neuron in the human brain was replaced by an equivalent computational device, would the result be the same person? Would it indeed be capable of intelligent thought? - Ben Cobbin (Google DeepMind)
 
 --- 
  

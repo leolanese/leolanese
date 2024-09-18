@@ -71,7 +71,7 @@ As A SEM I'm responsible for a range of crucial tasks aimed at promoting growth,
 
 ✅ 🌟**Continuous Improvement**: I focus on the long-term growth and development of team members and the organization. By encouraging a sense of ownership and responsibility among team members, I apply `Situational Leadership` to foster an environment where individuals feel empowered to take initiative and contribute effectively
 
-✅ 🌟**Promoting Knowledge Sharing**: I encourage a culture of knowledge sharing and communication, encoraging developers to share ideas and guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
+✅ 🌟**Promoting Knowledge Sharing**: I `encourage a culture of knowledge sharing and communication`, encoraging developers to share ideas and guiding the team towards adopting guiding principles, a growth mindset, and a proactive approach to addressing technical debt.
 
 ✅ 🌟**Get individual & company clear values & purposes and find team-members integrity and the highest good as a goal**: Develop great teams, not just software.
 

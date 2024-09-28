@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  Our mission is problem-solving. Dive in, tackle issues head-on, and avoid getting bogged down in choices.
+  My mission is problem-solving. Dive in, tackling issues directly and avoiding unnecessary complexities. `Software Engineer is about provide a solution for a problem using tech.` 
 </p>
   
 
@@ -35,21 +35,23 @@
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
-✅ 🌟**Be nice**: `Be a developer that everybody wants to work with`. It's not 100% all about the code. 
+✅ 🌟**Be nice**: `Be a developer, but above all a great person, that everybody wants to work with`. It's not 100% all about the code.
 
-✅ 🌟**Show Strong Team Player Skills**: `Actively collaborate and integrate to promote team engagement` and uphold company culture.
+✅ 🌟**Be Strong Team Player**: `Actively collaborate and integrate to promote team engagement` and uphold company culture.
 
-✅ 🌟**Be curious**: As an `Software Engineer, your brain is your greatest asset`. Be actibly looking for new challenges, be curious, move out of comfortable zone and be eager to learn.
+✅ 🌟**Be curious**: As an `Software Engineer, our brain is our greatest asset`. Be actibly looking for new challenges, be curious, move out of comfortable zone and be eager to learn.
 
-✅ 🌟**Deep understanding**: Don't create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. `Software Engineer is about provide a solution for a problem using tech.` 
+✅ 🌟**Be insightful**: Deep Understanding, simple solution, but don't create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. 
 
-✅ 🌟**I Write Practical Code**: Code that's merely "smart" often is an atempt to show how "smart" the author is. However, in my experience, people value and appreciate more when you `focus on solving their problems and making their work easier, rather than showing off technical tricks`.
+✅ 🌟**Be practical**: Code that's merely "smart" often is an atempt to show how "smart" the author is. However, in my experience, people value and appreciate more when you `focus on solving their problems and making their work easier, rather than showing off technical tricks`.
 
-✅ 🌟**I Write Good Simple Code**: `Hard to test. Not a great code`. I write simple test-oriented declarative code. 
+✅ 🌟**Be simple and testable**: `Hard to test. Not a great code`. 
+
+✅ 🌟**Be performante**: Write code with performance in mind. Write Good Simple Code. 
 
 <br />  
  
-### What I'm doing as Senior Team Lead / Software Engineering Manager? 🚀
+### What I'm doing as Senior Team Lead / Software Engineering "Manager"? 🚀
 
 > Finding a truly exceptional leader is hard to find, parting with them is challenging and impossible to forget.
 
@@ -59,7 +61,7 @@ As A SEM I'm responsible for a range of crucial tasks aimed at promoting growth,
 
 ✅ 🌟**Servant Leader**: Servant is a `person who performs duties for others`. A `servant leader` is a person who `acts as a servant first, focusing on the needs and success of the team` because the primary role is to `serve and support the team members`, rather than exerting top-down authority
 
-✅ 🌟**Situational Leadership** It is an adaptable "Model of Leadership". Is based on the idea that the best way to lead a team is to match your leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`. I use my trainning and skills in `Situational Leadership` Model to flexible adapt into individual situations when need it
+✅ 🌟**Situational Leadership** It is an adaptable "Model of Leadership". Is based on the idea that the best way to lead a team is to match our leadership style to the needs of the individual parts of team, means `choosing the right leadership style for the right people`. I use my trainning and skills in `Situational Leadership` Model to flexible adapt into individual situations when need it
 
 ✅ 🌟**Supporting Personal Growth**: I actively `mentor and guide` engineers (when need it) in their career development, helping them set goals and providing opportunities for skill enhancement. Here I'm using `Situational Leadership methodologies`
 
@@ -126,9 +128,9 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 ### 💬 What people can ask me about:
  - Angular2+
  - JavaScript & TypeScript
+ - NextJS (NodeJS, ExpressJS)
  - Cloud AWS 
  - NodeJS
- - NextJS (ExpressJS, ReactJS)
  - Functional Programing (FP)
  - Responsive Web Design (RWD)
  - Python

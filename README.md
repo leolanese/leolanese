@@ -35,19 +35,19 @@
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
-✅ 🌟**Be nice**: `Be a developer, but above all a great person, that everybody wants to work with`. It's not 100% all about the code.
+✅ 🌟**Be performante**: Write code with performance in mind. Write Good Simple Code. 
+
+✅ 🌟**Be simple and testable**: `Hard to test. Not a great code`. 
+
+✅ 🌟**Be insightful**: Deep Understanding, simple solution, but don't create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. 
 
 ✅ 🌟**Be Strong Team Player**: `Actively collaborate and integrate to promote team engagement` and uphold company culture.
 
 ✅ 🌟**Be curious**: As an `Software Engineer, our brain is our greatest asset`. Be actibly looking for new challenges, be curious, move out of comfortable zone and be eager to learn.
 
-✅ 🌟**Be insightful**: Deep Understanding, simple solution, but don't create a solution that simply works. Understand all the implications. Understand how works internally. Reverse-enginner it, and explain to someone else like a child of nine. Now, understanding the problem let's provide a simplest and best possible solution. 
-
 ✅ 🌟**Be practical**: Code that's merely "smart" often is an atempt to show how "smart" the author is. However, in my experience, people value and appreciate more when you `focus on solving their problems and making their work easier, rather than showing off technical tricks`.
 
-✅ 🌟**Be simple and testable**: `Hard to test. Not a great code`. 
-
-✅ 🌟**Be performante**: Write code with performance in mind. Write Good Simple Code. 
+✅ 🌟**Be nice**: `Be a developer, but above all a great person, that everybody wants to work with`. It's not 100% all about the code.
 
 <br />  
  

@@ -31,7 +31,7 @@
 
 <br />
 
-### What I'm doing as Senior Front-End Developer? 🚀
+### What I'm doing as Software Enginner Developer? 🚀
 
 I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
 
@@ -47,7 +47,7 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 ✅ 🌟**Be practical**: Code that's merely "smart" often is an atempt to show how "smart" the author is. However, in my experience, people value and appreciate more when you `focus on solving their problems and making their work easier, rather than showing off technical tricks`.
 
-✅ 🌟**Be nice**: `Be a developer, but above all a great person, that everybody wants to work with`. It's not 100% all about the code.
+✅ 🌟**Be nice**: `Be a nice person, but above all a great person, that everybody wants to work with`. It's not 100% all about the code.
 
 <br />  
  

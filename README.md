@@ -51,7 +51,7 @@ I'm responsable for a range of very important tasks as part of a Team. Here is w
 
 <br />  
  
-### What I'm doing as Senior Team Lead / Software Engineering "Manager"? 🚀
+### What I'm doing as Software Engineering Manager / TPM ? 🚀
 
 > Finding a truly exceptional leader is hard to find, parting with them is challenging and impossible to forget.
 

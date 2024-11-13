@@ -1,6 +1,7 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious `Software Engineer`, specialised in `Front-end` using `Angular`, and Back-end using `NestJS` and `Python` under `AWS` and `Agile` Software Development methodology.</h4>
+  <h4>I'm a passionately curious `Software Engineer`, specialised in `Front-End`: using `Angular`, and `Back-end`: using `NestJS`, `Python` using `AWS` and `Agile` Software Development methodology. As a Software Engineer, my job isn't just write code, it is to build products that make the life of our users better.
+</h4>
 </div>
 
 <br /><br />

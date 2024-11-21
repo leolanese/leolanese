@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious `Software Enginnering Manager`, specialised in `Front-End` using `Angular`, and `Back-end`: using `NestJS`, `Python` with `AWS` unnder `Agile` Software Development methodology. As a Software Engineer, my job isn't just write code, it is to build products that make the life of our users better. As an Engineering Manager I believe in Agile and Servent Leader. 
+  <h4>I'm a passionately curious `Software Enginnering Manager`, specialised in `Front-End` using `Angular`, and `Back-end`: using `NestJS`, `Python` with `AWS` unnder `Agile` Software Development methodology. As a `Software Engineer`, my job isn't just write code, it is to build products that make the life of our users better. As an `Software Engineering Manager` I believe in Agile and Servent Leader. 
 </h4>
 </div>
 
@@ -42,11 +42,7 @@ I believe in technology that:
   # My History in the console.log:
 <p>
   
-  **Throughout over the last 15+ years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack JS" development paradigm focus on `NestJS (NodeJS/ExpressJS)` and `AWS` under `Agile` methodologies. **
-</p>
-<p>
-  
-   **Over the course of my professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.**
+   **Over the course of my 15+ professional journey, I have been fortunate to reside and work in diverse countries and cultures, including: `Argentina`, `Spain`, `Germany`, and `United Kingdom` these days. These experiences have not only enriched my understanding of global dynamics, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds. Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide, contributing as a reviewer for Angular books, and actively engaging with the vibrant JS community when invited for conferences. These endeavors have undoubtedly solidified my expertise in this dynamic field as a Developer but also as a Team player.**
   
 </p>
 

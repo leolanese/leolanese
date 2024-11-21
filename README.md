@@ -7,9 +7,9 @@
 <br /><br />
 
 <div align="centre">
-  > ## **Exciting Opportunities Await!** 🚀
-  > ### `I'm currently 🌟 OPEN 🌟 and looking for new adventures and opportunities!`
-  > Let's work together and create something amazing! 🚀
+  <p> ## **Exciting Opportunities Await!** 🚀
+  <p> ### `I'm currently 🌟 OPEN 🌟 and looking for new adventures and opportunities!`
+  <p> Let's work together and create something amazing! 🚀
   📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
 </div>
 

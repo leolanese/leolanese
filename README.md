@@ -17,6 +17,26 @@
 
 <br /><br />
 
+# 🌟 **My Technical Philosophy: Bridging Innovation and Practicality**
+
+I believe in technology that:
+
+- 🚀 **Solves complex business challenges**  
+  Through **elegant** and **scalable** solutions.  
+
+- 🎯 **Prioritizes user experience and performance**  
+  Ensuring fast, reliable, and user-friendly systems.  
+
+- 📚 **Embraces continuous learning and technological evolution**  
+  Adapting to change while staying ahead of industry trends.  
+
+- ⚖️ **Balances technical depth with strategic business alignment**  
+  Delivering value that meets both technical and business goals.
+
+
+
+<br /><br />
+
 <div align="left">
 <p>
   Throughout the last fifteen years, I have developed solid experience in Software Engineer, specialising in "Front-End" using `Angular` or pure `vanilla JS` and "Full-Stack JS" development paradigm focus on `NestJS (NodeJS/ExpressJS)` and `AWS` under `Agile` methodologies. 

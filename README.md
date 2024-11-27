@@ -55,8 +55,6 @@ I believe in technology that:
 
 ### What I'm doing as Software Enginner Developer / FE ? 🚀
 
-I'm responsable for a range of very important tasks as part of a Team. Here is what I do:
-
 ✅ 🌟**Be performante**: Write code with performance in mind. Write Good Simple Code. 
 
 ✅ 🌟**Be simple and testable**: `Hard to test. Not a great code`. 

@@ -9,7 +9,7 @@
 <div align="centre">
 
 > ## **Exciting Opportunities Await!** 🚀
-> ### I'm currently 🌟`OPEN`🌟 and looking for new adventures and opportunities!
+> ### 🌟`OPEN NOW`🌟 and actibly looking for new adventures and opportunities remote or London hybrid!!
 > Let's work together and create something amazing 🚀
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
 

@@ -9,7 +9,7 @@
 <div align="centre">
 
 > ## **Exciting Opportunities Await!** 🚀
-> ### Available for new projects: Remote or London hybrid positions of interest (contact b2b by Limited Company or Permanent/FTC)
+> ### Available for new projects: Remote or London hybrid positions of interest (Contract B2B/Limited Company or Permanent/FTC)
 > Let's work together and create something amazing 🚀
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
 

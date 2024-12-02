@@ -47,7 +47,8 @@ I believe in technology that:
 </p>
 
 <p>
-  My mission is problem-solving. Dive in, tackling issues directly and avoiding unnecessary complexities. `Software Engineer is about provide a solution for a problem using tech.` 
+  My mission: Problem-solving. Dive in, tackling issues directly and avoiding unnecessary complexities. 
+  My philosophy: Software Engineer is about provide a solution for a problem using tech. 
 </p>
   
 

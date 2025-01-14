@@ -4,7 +4,7 @@
     with experience using [`AWS`] in [`Agile`] Software Development methodology.
   </h4>
   <h4>
-    As a `Software Engineer`, my job isn't just write code, it is to build products that make the life of our users better. As a `Software Engineering Manager`, I embrace Agile and AgilePM methodologies, along with the principles of Situational Leadership and Servant Leadership. 
+    As a `Software Engineer`,  my job isn't just write code, it is to build products that make a better life of our users. As a `Software Engineering Manager`, I embrace Agile and AgilePM methodologies, along with the principles of Situational Leadership and Servant Leadership. 
   </h4>
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious [`Software-Engineer`], specialised in [`Front-End`] development & UI/UX. My strongest skills include [`Angular`, `TypeScript`, `NestJS`] 
+  <h4>I'm a passionately curious [`Software-Engineer`], specialised in [`Front-End`] development & [`UI/UX`]. My strongest skills include [`Angular`, `TypeScript`, `NestJS`] 
     with experience using [`AWS`] in [`Agile`] Software Development methodology.
   </h4>
   <h4>

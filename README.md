@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious `Software Enginnering Manager`, specialised in `Front-End` using `Angular`, and `Back-end`: using `NestJS`, `Python` with `AWS` unnder `Agile` Software Development methodology. As a `Software Engineer`, my job isn't just write code, it is to build products that make the life of our users better. As an `Software Engineering Manager` I believe in Agile and Servant Leader. 
+  <h4>I'm a passionately curious `Software Engineer`, specialised in `Front-End` using `Angular`, and `Back-end` using `NestJS`, `Python` with `AWS` unnder `Agile` Software Development methodology. As a `Software Engineer`, my job isn't just write code, it is to build products that make the life of our users better. As an `Software Engineering Manager` I believe in Agile and Servant Leader. 
 </h4>
 </div>
 

@@ -1,7 +1,5 @@
 # Professional Profile  
 
-### Roles & Values  
-
 <div align="left">
   <h2> Hi, I'm Leo 🧑 👋 </h2>
   <h5>
@@ -11,7 +9,7 @@
   </h5>
 </div>
 
-# Professional Profile
+## Professional Profile
 
 **💻 Software Engineer**  
 "My job isn't just to write code, it is to `to build products that make a better life of our users`. 🚀  
@@ -32,7 +30,7 @@
 
 <br /><br />
 
-# 🌟 **Personal Technical Philosophy: `Bridging Innovation and Practicality`**
+## 🌟 **Personal Technical Philosophy: `Bridging Innovation and Practicality`**
 
 I believe in technology that:
 
@@ -49,12 +47,13 @@ I believe in technology that:
   Delivering value that meets both technical and business goals.
 
 
+<br />
 
-<br /><br />
+---
 
 <div align="left">
   
-  # My History in the console.log 💻:
+## My History in the console.log 💻:
 <p>
 Over the course of my 15+ year professional journey 🕰️, I have been fortunate to reside and work in diverse countries and cultures, including: Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩🇪, and the United Kingdom 🇬🇧 these days. These experiences have not only enriched my understanding of global dynamics 🌍, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds 🤝.
 
@@ -69,7 +68,6 @@ Problem-solving 🛠️: Dive in, tackle issues directly, and avoid unnecessary 
 Software Engineering 💻 is about providing solutions ✅ to problems ❓ through technology 🌐.
 </p>
   
-
 <br />
 
 ### What I'm doing as Software Enginner Developer / FE ? 🚀
@@ -160,7 +158,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 
 ### 📓 Further thoughts
 
-> If each neuron in the human brain was replaced by an equivalent computational device, would the result be the same person? Would it indeed be capable of intelligent thought? - Ben Cobbin (Google DeepMind)
+> `If each neuron in the human brain was replaced by an equivalent computational device, would the result be the same person? Would it indeed be capable of intelligent thought? - Ben Cobbin (Google DeepMind)`
 
 --- 
  

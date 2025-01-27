@@ -1,16 +1,23 @@
+# Professional Profile  
+
+### Roles & Values  
+
 <div align="left">
   <h2> Hi, I'm Leo 👋 </h2>
   <h5>
-  I'm a passionately curious [`Software-Engineer`], <br />
-  specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. <br />
-  My strongest skills include [`Angular`, `TypeScript`, `NestJS`] <br />
-  with experience using [`AWS`] in [`Agile`] Software Development methodology.<br />
-  </h5>
-  <h5>
-   As a `Software Engineer`,  my job isn't just write code, it is to build products that make a better life of our users. <br />
-   As a `Software Engineering Manager`, I embrace `Agile methodologies` and `Agile Project Management` (AgilePM), guided by the principles of `Situational Leadership` and `Servant Leadership`. I'm not just a "coder", I'm a well-rounded leader who thrives in ambiguity and wears many hats. My technical expertise is matched by soft skills: encoraging collaboration, mentoring teams, and aligning engineering efforts with business goals.
+  ✅ I'm a passionately curious [`Software-Engineer`]. <br />
+  ✅ I'm specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. <br />
+  ✅ My strongest skills include [`Angular`, `TypeScript`, `NestJS`] with experience using [`AWS`] in [`Agile`] Software Development methodology.<br />
   </h5>
 </div>
+
+# Professional Profile
+
+**🧑💻 Software Engineer**  
+"My job isn't just to write code, it is to `to build products that make a better life of our users`. 🚀  
+
+**👥 Software Engineering Manager**  
+"I embrace **Agile methodologies** 🔄 and **Servant Leadership** ❤️ and `Agile Project Management` (AgilePM), guided by the principles of `Situational Leadership` and `Servant Leadership`. I'm a well-rounded leader 🛠️ who thrives in ambiguity and wears many hats. My technical expertise is matched by soft skills: encoraging collaboration, mentoring teams, and aligning engineering efforts with business goals. My focus? Aligning technical 📈 with team empowerment 👥 to hit goals 🎯."  
 
 <br /><br />
 

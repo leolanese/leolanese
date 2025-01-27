@@ -3,7 +3,7 @@
 ### Roles & Values  
 
 <div align="left">
-  <h2> Hi, I'm Leo 👋 </h2>
+  <h2> Hi, I'm Leo 🧑 👋 </h2>
   <h5>
   ✅ I'm a passionately curious [`Software-Engineer`]. <br />
   ✅ I'm specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. <br />
@@ -13,11 +13,11 @@
 
 # Professional Profile
 
-**🧑💻 Software Engineer**  
+**💻 Software Engineer**  
 "My job isn't just to write code, it is to `to build products that make a better life of our users`. 🚀  
 
 **👥 Software Engineering Manager**  
-"I embrace **Agile methodologies** 🔄 and **Servant Leadership** ❤️ and `Agile Project Management` (AgilePM), guided by the principles of `Situational Leadership` and `Servant Leadership`. I'm a well-rounded leader 🛠️ who thrives in ambiguity and wears many hats. My technical expertise is matched by soft skills: encoraging collaboration, mentoring teams, and aligning engineering efforts with business goals. My focus? Aligning technical 📈 with team empowerment 👥 to hit goals 🎯."  
+"I embrace **Agile methodologies** 🔄 and **Servant Leadership** ❤️ and `Agile Project Management` (AgilePM), guided by the principles of `Situational Leadership` and `Servant Leadership`. I'm a well-rounded leader 🛠️ who thrives in ambiguity and wears many hats. My technical expertise is matched by soft skills: encoraging collaboratio 🤝, mentoring teams 🏫, and aligning engineering efforts with business goals 📋. My focus? Aligning technical skills 📈 with team empowerment 👥 to hit goals 🎯."  
 
 <br /><br />
 

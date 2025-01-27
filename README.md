@@ -1,10 +1,14 @@
 <div align="center">
   <h2> Hi, I'm Leo 👋 </h2>
-  <h4>I'm a passionately curious [`Software-Engineer`], specialised in [`Front-End`] development & [`UI/UX`]. My strongest skills include [`Angular`, `TypeScript`, `NestJS`] 
-    with experience using [`AWS`] in [`Agile`] Software Development methodology.
+  <h4>
+  I'm a passionately curious [`Software-Engineer`], 
+  specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. 
+  My strongest skills include [`Angular`, `TypeScript`, `NestJS`] 
+  with experience using [`AWS`] in [`Agile`] Software Development methodology.
   </h4>
   <h4>
-    As a `Software Engineer`,  my job isn't just write code, it is to build products that make a better life of our users. As a `Software Engineering Manager`, I embrace Agile and AgilePM methodologies, along with the principles of Situational Leadership and Servant Leadership. 
+   As a `Software Engineer`,  my job isn't just write code, it is to build products that make a better life of our users. 
+   As a `Software Engineering Manager`, I embrace `Agile methodologies` and `Agile Project Management` (AgilePM), guided by the principles of `Situational Leadership` and `Servant Leadership`. I'm not just a "coder", I'm a well-rounded leader who thrives in ambiguity and wears many hats. My technical expertise is matched by soft skills: encoraging collaboration, mentoring teams, and aligning engineering efforts with business goals.
   </h4>
 </div>
 

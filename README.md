@@ -3,9 +3,9 @@
 <div align="left">
   <h2> Hi, I'm Leo 🧑 👋 </h2>
   <h5>
-  ✅ I'm a passionately curious [`Software-Engineer`]. <br />
-  ✅ I'm a hybrid Software Enginner and Software Enginner Manager that specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. <br />
-  ✅ My strongest skills include [`Angular`, `TypeScript`, `NestJS`] with experience using [`AWS`] in [`Agile`] Software Development methodology.<br />
+✅ I'm a passionately curious `Software Engineer` and `Software Engineering Manager`, with a unique hybrid skill set that bridges hands-on technical expertise and strategic leadership.
+✅ With 15+ years of experience, I specialise in `Front-End Development, RWD and UI/UX Design`, while also especiliased in `Software Engineering Management`, enabling me to deliver high-quality, scalable solutions and lead teams to success.
+✅ My strongest technical skills include `Angular`, `TypeScript`, and `NestJS`, combined with experience in `AWS` and a deep understanding of `Agile` methodologies.
   </h5>
 </div>
 

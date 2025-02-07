@@ -4,7 +4,7 @@
   <h2> Hi, I'm Leo 🧑 👋 </h2>
   <h5>
   ✅ I'm a passionately curious [`Software-Engineer`]. <br />
-  ✅ I'm specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. <br />
+  ✅ I'm a hybrid Software Enginner and Software Enginner Manager that specialised in [`Front-End`] development & [`UI/UX`] with +[`15 years experience`]. <br />
   ✅ My strongest skills include [`Angular`, `TypeScript`, `NestJS`] with experience using [`AWS`] in [`Agile`] Software Development methodology.<br />
   </h5>
 </div>

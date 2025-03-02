@@ -2,11 +2,11 @@
 
 <div align="left">
   <h2> Hi, I'm Leo 🧑 👋 </h2>
-  <p>
- I'm a passionately curious `Senior Front-End Developer` and `Software Engineering Manager`, with a unique hybrid skill set that bridges hands-on technical expertise and strategic leadership.<br />
- With over 15 years of experience in Techn Industry, I specialise in `Front-End Development`, `RWD`, `UX` and `Performance`, while also especiliased in `Software Engineering Management`, enabling me to deliver high-quality, scalable solutions and lead teams to success.<br />
+
+ I'm a passionately curious `Senior Front-End Developer`, with a unique hybrid skill set that bridges hands-on technical expertise and strategic leadership.<br />
+ With over 15 years of experience in UK Tech Industry, I specialise in `Front-End Development`, `RWD`, `UX` and `Performance`, while also especiliased in `Software Engineering Management`, enabling me to deliver high-quality, scalable solutions and lead teams to success.<br />
  My strongest technical skills include `Angular`, `TypeScript`, and `NestJS`, combined with experience in `Cloud Computing` and a deep understanding of `Agile` methodologies.<br />
-  </p>
+
 </div>
 
 ## Professional Profile

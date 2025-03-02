@@ -1,5 +1,3 @@
-# Professional Profile  
-
 <div align="left">
   <h2> Hi, I'm Leo Lanese🧑 👋 </h2>
   <h3>Senior Angular Front-End Developer | Delivering Scalable, Performant Solutions for Enhanced UX</h3>
@@ -235,14 +233,10 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
   <a href="http://twitter.com/LeoLanese">
     <img alt="Leo Lanese Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.leolanese.com/">
-    <img alt="Leo Lanese Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
    <a href="http://www.leolanese.com/blog">
     <img alt="Leo Lanese Personal Blog" src="https://img.shields.io/badge/blog-ededed?style=for-the-badge&logo=red&logoColor=white">
   </a>
 </div>
-
 
 [![Email](https://img.shields.io/badge/email-Developer%40leolanese.com-informational?style=for-the-badge&logo=email&logoColor=white)](mailto:developer@leolanese.com)
 
@@ -262,7 +256,6 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 ##### :radio_button: gitroll: <a href="https://gitroll.io/profile/uCOZ9SM8b7ne9h17NuPuKVky9uFh2" target="_blank">LeoLanese</a>
 ##### :radio_button: Linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">LeoLanese</a>
 ##### :radio_button: Twitter: <a href="https://twitter.com/LeoLanese" target="_blank">@LeoLanese</a>
-##### :radio_button: Portfolio: <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
 ##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
 ##### :radio_button: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
 ##### :radio_button: Questions / Suggestions / Recommendations: `developer@leolanese.com` email me: <a href="mailto:developer@leolanese.com">developer@leolanese.com</a>

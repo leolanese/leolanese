@@ -4,14 +4,14 @@
   <h2> Hi, I'm Leo 🧑 👋 </h2>
   <h5>
 ✅ I'm a passionately curious `Agile Developer Engineer` and `Software Engineering Manager`, with a unique hybrid skill set that bridges hands-on technical expertise and strategic leadership.<br />
-✅ With 15+ years of experience, I specialise in `Front-End Development, RWD and UI/UX Design`, while also especiliased in `Software Engineering Management`, enabling me to deliver high-quality, scalable solutions and lead teams to success.<br />
-✅ My strongest technical skills include `Angular`, `TypeScript`, and `NestJS`, combined with experience in `AWS` and a deep understanding of `Agile` methodologies.<br />
+✅ With over 15 years of experience, I specialise in `Angular Front-End Development`, `RWD` and `UI/UX` and `Performance`, while also especiliased in `Software Engineering Management`, enabling me to deliver high-quality, scalable solutions and lead teams to success.<br />
+✅ My strongest technical skills include `Angular`, `TypeScript`, and `NestJS`, combined with experience in `Cloud Computing` and a deep understanding of `Agile` methodologies.<br />
   </h5>
 </div>
 
 ## Professional Profile
 
-**💻 Software Engineer**  
+**💻 Senior Front-End Developer**  
 "My job isn't just to write code, it is to `to build products that make a better life of our users`. 🚀  
 
 **👥 Software Engineering Manager**  
@@ -53,7 +53,7 @@ I believe in technology that:
 
 <div align="left">
   
-## My History in the console.log 💻:
+## My History in a `console.log()` 💻:
 <p>
 Over the course of my 15+ year professional journey 🕰️, I have been fortunate to reside and work in diverse countries and cultures, including: Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩🇪, and the United Kingdom 🇬🇧 these days. These experiences have not only enriched my understanding of global dynamics 🌍, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds 🤝.
 
@@ -70,7 +70,7 @@ Software Engineering 💻 is about providing solutions ✅ to problems ❓ throu
   
 <br />
 
-### What I'm doing as Software Enginner Developer / FE ? 🚀
+### What I'm doing as Senior Front-End Developer ? 🚀
 
 ✅ 🌟**Be performante**: Write code with performance in mind. Write Good Simple Code. 
 

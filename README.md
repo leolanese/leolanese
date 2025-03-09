@@ -1,8 +1,8 @@
 <div align="left">
   <h2> Hi, I'm Leo Lanese🧑 👋 </h2>
-  <h3>Senior Angular Front-End Developer | Delivering Scalable, Performant Solutions for Enhanced UX</h3>
+  <h3>Senior Angular Developer | Building Scalable, Performance, and User-Centric Solutions</h3>
 
-Results-driven Software Engineer with over 15 years of tech experience, specialising in `Angular Front-End development`, and a proven track record at renowned organisations.
+Results-driven Software Engineer with over 15 years of tech experience, specialising in `Front-End development`, and a proven track record at renowned organisations.
 
 As a `Angular Front-End developer`, my role goes beyond writing code, it's about crafting `high-performance`, `scalable` `user experiences` that users not only love but also feel deeply connected to. By focusing on creating applications that users trust, rely on, and want to keep using, I aim to build products that truly resonate with their needs and improve their lives.<br />
 

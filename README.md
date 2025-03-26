@@ -11,7 +11,7 @@ As a `Angular Front-End developer`, my role goes beyond writing code, it's about
 ## Professional Profile
 
 **💻 Senior Front-End Developer**  
-"My job isn't just to write code, it is to `to build products that make a better life of our users`. 🚀  
+"My job isn't just to write code, it is to `to build solutions that make the life of my team, my stakeholders, and my users easier`. 🚀  
 
 **👥 Software Engineering Manager**  
 "I embrace **Agile methodologies** 🔄 and **Servant Leadership** ❤️ and `Agile Project Management` (AgilePM), guided by the principles of `Situational Leadership` and `Servant Leadership`. I'm a well-rounded leader 🛠️ who thrives in ambiguity and wears many hats. My technical expertise is matched by soft skills: encoraging collaboratio 🤝, mentoring teams 🏫, and aligning engineering efforts with business goals 📋. My focus? Aligning technical skills 📈 with team empowerment 👥 to hit goals 🎯."  

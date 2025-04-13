@@ -28,9 +28,6 @@ As a `Angular Front-End developer`, my role goes beyond writing code, it's about
 
 <br /><br />
 
-
-<br /><br />
-
 ## 🌟 **Personal Technical Philosophy: `Bridging Innovation and Practicality`**
 
 I believe in technology that:

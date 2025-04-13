@@ -8,6 +8,16 @@ As a `Angular Front-End developer`, my role goes beyond writing code, it's about
 
 </div>
 
+<div align="centre">
+
+> ## **Exciting Opportunities Await!** 🚀
+> ### Available for new projects: Remote or London hybrid positions of interest (Contract B2B/Limited Company or Permanent/FTC)
+> Let's work together and create something amazing 🚀
+📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
+
+</div>
+
+
 ## Professional Profile
 
 **💻 Senior Front-End Developer**  
@@ -18,14 +28,6 @@ As a `Angular Front-End developer`, my role goes beyond writing code, it's about
 
 <br /><br />
 
-<div align="centre">
-
-> ## **Exciting Opportunities Await!** 🚀
-> ### Available for new projects: Remote or London hybrid positions of interest (Contract B2B/Limited Company or Permanent/FTC)
-> Let's work together and create something amazing 🚀
-📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
-
-</div>
 
 <br /><br />
 

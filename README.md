@@ -126,7 +126,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
   
 ### 📢 Featured Speaker Conferences:
 * [`SpainJS` (Madrid, Spain):](https://leolanese.com/spainjs/)
-* [`ScotlandJS`󠁣󠁴󠁿 (Edinburghd Scotlans)](https://leolanese.com/scotlandjs/)
+* [`ScotlandJS`󠁣󠁴󠁿 (Edinburgh Scotlans)](https://leolanese.com/scotlandjs/)
 * [`JSConf` (Buenos Aires, Argentina)](https://leolanese.com/jsconf/)
 
   

@@ -1,5 +1,5 @@
 <div align="left">
-  <h2> Hi, I'm Leonardo Lanese 👋 </h2>
+  <h2> Hi, I'm Leo Lanese 👋 </h2>
   <h3>Senior Angular Developer | Building Scalable, Performance, and User-Centric Solutions</h3>
 
 Results-driven Software Engineer with over 15 years of tech experience, specialising in `Front-End development`, and a proven track record at renowned organisations.

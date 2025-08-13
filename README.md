@@ -1,10 +1,10 @@
 <div align="left">
   <h2> Hi, I'm Leo Lanese 👋 </h2>
-  <h3>Senior Angular Developer | Building Scalable, Performance, and User-Centric Solutions</h3>
+  <h3>Senior Angular Front-End Developer | User-Centric UX & Analytics</h3>
 
 Results-driven Software Engineer with over 15 years of tech experience, specialising in `Front-End development`, and a proven track record at renowned organisations.
 
-As a `Angular Front-End developer`, my role goes beyond writing code, it's about crafting `high-performance`, `scalable` `user experiences` that users not only love but also feel deeply connected to. By focusing on creating applications that users trust, rely on, and want to keep using, I aim to build products that truly resonate with their needs and improve their lives.<br />
+As a `Angular Front-End developer`, my role goes beyond writing code, it's about crafting `high-performance`, `scalable` `user experiences` with `Analytics`, that users not only love but also feel deeply connected to. By focusing on creating applications that users trust, rely on, and want to keep using, I aim to build products that truly resonate with their needs and improve their lives.<br />
 
 </div>
 
@@ -53,7 +53,7 @@ I believe in technology that:
 <p>
 Over the course of my 15+ year professional journey 🕰️, I have been fortunate to reside and work in diverse countries and cultures, including: Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩🇪, and the United Kingdom 🇬🇧 these days. These experiences have not only enriched my understanding of global dynamics 🌍, but have also allowed me to forge meaningful connections with individuals from diverse backgrounds 🤝.
 
-Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide 🎤, contributing as a reviewer for Angular books 📚, and actively engaging with the vibrant JS community when invited for conferences 🚀. These endeavors have undoubtedly solidified my expertise in this dynamic field—not just as a Developer 💻, but also as a Team Player 👥.
+Additionally, I have had the distinct honor of presenting at prestigious JavaScript conferences worldwide 🎤, contributing as a reviewer for Angular books 📚, and actively engaging with the vibrant JS community when invited for conferences 🚀. These endeavors have undoubtedly solidified my expertise in this dynamic field—not just as a Developer 💻 with Analytics, but also as a Team Player 👥.
 </p>
 
 <p>

@@ -251,7 +251,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
   <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="600" height="314" />
 </a>
 
-##### :radio_button: Portfolio: <a href="https://www.leolanese.com" target="_blank">WWW</a>
+##### :radio_button: Portfolio: <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
 ##### :radio_button: Linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">LeoLanese</a>
 ##### :radio_button: Twitter: <a href="https://twitter.com/LeoLanese" target="_blank">@LeoLanese</a>
 ##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">Tech Blog</a>

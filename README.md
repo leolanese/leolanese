@@ -1,8 +1,8 @@
 <div align="left">
   <h2> Hi, I'm Leo Lanese 👋 </h2>
-  <h3>Senior Angular Front-End Developer | User-Centric UX & Analytics</h3>
+  <h3>Senior Angular Developer  |  AI & Data-Driven UX</h3>
 
-Results-driven Software Engineer with over 15 years of tech experience, specialising in `Front-End development`, and a proven track record at renowned organisations.
+Results-driven Software Engineer with over 15+ years of tech experience, specialising in `Angular Front-End development`, and a proven track record at renowned organisations.
 
 As a `Angular Front-End developer`, my role goes beyond writing code, it's about crafting `high-performance`, `scalable` `user experiences` with `Analytics`, that users not only love but also feel deeply connected to. By focusing on creating applications that users trust, rely on, and want to keep using, I aim to build products that truly resonate with their needs and improve their lives.<br />
 
@@ -66,7 +66,7 @@ Software Engineering 💻 is about providing solutions ✅ to problems ❓ throu
   
 <br />
 
-### What I'm doing as Senior Front-End Developer ? 🚀
+### What I'm doing as Senior Angular Front-End Developer ? 🚀
 
 ✅ 🌟**Be performante**: Write code with performance in mind. Write Good Simple Code. 
 
@@ -121,7 +121,7 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 --- 
 
 ### 🖥️ Where I was working on in the past:
- - I have being working in different countries for several clients like: `BBC`, `MET (London Metropolitan Police)`, `Nokia`, `IBM`, `SKY`, `Mimecast`, `ADSS`, `Luno`, `The Workshop`, `Vashi`, `Rumbo` between others clients, producing succesully products that I'm proud of.
+ - I have being working in different countries for several clients like: `BBC`, `MET (London Metropolitan Police)`, `Nokia`, `IBM`, `SKY`, `Mimecast`, between others clients, producing succesully products that I'm proud of.
  
   
 ### 📢 Featured Speaker Conferences:
@@ -147,8 +147,9 @@ In essence, SEM roles revolves around `leadership`, `mentorship`, `innovation` a
 ---
  
 ### 👨‍💻  What I'm doing at the moment: 
+ - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries and challenging myself with `AI` and `NestJS`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
  - I'm currently helping in a UK Charity CYF `https://codeyourfuture.io/`. CodeYourFuture is an organization that helps people that are affected by forced diaspora to get back on track by teaching Web Development. I'm helping to make a positive impact on others peoples life. Sharing knowledge that can empower aspiring developers and contribute to the growth of the programming community.
- - Continue in an Angular path as well, as Angular is witnessing new exiting trends recently and looks very promising near future! Also continuing pushing the boundaries and challenging myself with `AWS`, `AI` and `Python`. That encorage me to keep moving into the `Full-Stack` paradigm, leading to the expansion of frontiers in Software Development 👍 
+
 
 ---
 

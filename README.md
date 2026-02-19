@@ -21,7 +21,7 @@ I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling t
 ## Professional Profile
 
 **💻 Senior Front-End Developer**  
-"My job isn't just to write code, it is to `to build solutions that make the life of my team, my stakeholders, and my users easier`. 🚀  
+"My job isn't just to write code, it is to `to build solutions that make the life of my team, my stakeholders, and final users easier`. 🚀  
 
 
 <br /><br />

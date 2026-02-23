@@ -53,10 +53,11 @@ I've also worked and lived in Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩�
 - [Workshops](https://github.com/leolanese?tab=repositories&q=workshop&type=&language=&sort=)
 
 ## 🤝 Contributions
-- [`JS Invited Expert`, React Advanced London](https://reactadvanced.com/)
+- [`JS Invited Expert`, React Advanced London Conference](https://reactadvanced.com/)
 - [`Technical Reviewer`, "Deploying Angular", Packt Publishing](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
-- [`CodeSnap Magazine Writer`, Functional Programming unit-test](https://codesnapmag.hashnode.dev/functional-programming-unit-test)
-- [`OpenJS Foundation Individual Participant`](https://openprofile.dev/profile/leolanese)
+- [`CodeSnap Technical Magazine Writer`, Functional Programming unit-test](https://codesnapmag.hashnode.dev/functional-programming-unit-test)
+- [`Dev.to Technical Blog`, Article writer about Software Engineer`](https://dev.to/leolanese)
+- [`OpenJS Foundation`, Support collaborative development of JavaScript and web technologies individual participant`](https://openprofile.dev/profile/leolanese)
 
 <br />
 

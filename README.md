@@ -101,19 +101,6 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 
 ---
 
-## 📬 Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leolanese/)
-[![Dev.to](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white)](http://www.dev.to/leolanese)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/LeoLanese)
-[![Blog](https://img.shields.io/badge/blog-ededed?style=for-the-badge)](http://www.leolanese.com/blog)
-[![Email](https://img.shields.io/badge/email-Developer%40leolanese.com-informational?style=for-the-badge)](mailto:developer@leolanese.com)
-
-<a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer">
-  <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="600" height="314" />
-</a>
-
-
 ## 📊 GitHub Activity & Contributions
 
 > A live snapshot of my coding activity, consistency, and open-source presence.
@@ -151,3 +138,12 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)
 
+---
+
+## 📬 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leolanese/)
+[![Dev.to](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white)](http://www.dev.to/leolanese)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/LeoLanese)
+[![Blog](https://img.shields.io/badge/blog-ededed?style=for-the-badge)](http://www.leolanese.com/blog)
+[![Email](https://img.shields.io/badge/email-Developer%40leolanese.com-informational?style=for-the-badge)](mailto:developer@leolanese.com)

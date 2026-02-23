@@ -14,8 +14,9 @@ I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling t
 <div align="centre">
 
 > ## 🚀 **Open to New Challenges**
-> ### `Available for new projects`: Remote or London hybrid (Contract B2B/Limited Company or Permanent/FTC)
-> 📧 [developer@leolanese.com](mailto:developer@leolanese.com) &nbsp;|&nbsp; 📚 [LinkedIn](https://www.linkedin.com/in/leolanese/)
+> ### `Available for new projects`: Remote UK based or London hybrid (Contract B2B/Limited Company or Permanent/FTC)
+> 📧 [developer@leolanese.com](mailto:developer@leolanese.com) </br>
+> 📋 [LinkedIn](https://www.linkedin.com/in/leolanese/)
 
 </div>
 

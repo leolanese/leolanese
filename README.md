@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
-  <h3>🅰️ Senior Angular Developer | AI & Data-Driven UX</h3>
+  <h3>Senior Angular Developer | AI & Data-Driven UX</h3>
 
 **I ship fast, scalable Angular apps and help teams do the same.**
 
@@ -13,7 +13,7 @@ I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling t
 
 <div align="centre">
 
-> ## 🚀 **Open to New Challenges**
+> ## 🅰️ **Open to New Challenges**
 > ### `Available for new projects`: Remote UK based or London hybrid (Contract B2B/Limited Company or Permanent/FTC)
 > 📧 [developer@leolanese.com](mailto:developer@leolanese.com) </br>
 > 📋 [LinkedIn](https://www.linkedin.com/in/leolanese/)

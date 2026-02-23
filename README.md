@@ -116,7 +116,7 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 </a>
 
 
-### 📈 Github Contribution heatmap charts/activity graph
+### 📈 Github Contribution heatmap charts/activity graph (2026)
 > Daily commit activity over the year. Shows how consistently and actively I contribute to projects.
 > 
 ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true)
@@ -138,6 +138,17 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 > Shows my longest and current streak of consecutive days with GitHub contributions, a measure of dedication and consistency.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)
+
+---
+
+## 🌐 401 developer, Community & Social Proof
+
+> Trust signals built over 15+ years of active community involvement.
+
+| | |
+|---|---|
+| 💼 **34+ LinkedIn Recommendations** | Backed from colleagues and Clients [View on LinkedIn →](https://www.linkedin.com/in/leolanese/details/recommendations/) |
+| 🐦 **3,100+ Twitter/X Followers** | An engaged audience in the JavaScript, Angular and Front-End community, built through conference speaking, workshops and open knowledge sharing. [Follow on X →](https://twitter.com/LeoLanese) |
 
 ---
 

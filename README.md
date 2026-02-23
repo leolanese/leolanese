@@ -103,7 +103,6 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Scrum Master](https://img.shields.io/badge/SCM-ScrumMaster-blue)
 
-
 ---
 
 ## 📬 Reach me
@@ -117,6 +116,10 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 <a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer">
   <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="600" height="314" />
 </a>
+
+## Github Contribution graph/activity graph
+
+![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true)
 
 
 <br />

@@ -121,12 +121,14 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 
 ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true)
 
+<br />
+
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leolanese&theme=react)
 
 <br />
 
-##### 🔘 Portfolio: [www.leolanese.com](https://www.leolanese.com)
-##### 🔘 LinkedIn: [LeoLanese](https://www.linkedin.com/in/leolanese/)
-##### 🔘 Twitter: [@LeoLanese](https://twitter.com/LeoLanese)
-##### 🔘 DEV.to: [Tech Blog](https://www.dev.to/leolanese)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)
 
+<br />
 

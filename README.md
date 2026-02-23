@@ -11,11 +11,12 @@ I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling t
 
 <div align="centre">
   
-> ## **Open to New Challenges** 🚀
+> ## 🚀 **Open to New Challenges** 
 > ### Available for new projects: Remote or London hybrid positions of interest (Contract B2B/Limited Company or Permanent/FTC)
-> If you're solving real problems and want it done well, we should talk 🚀
-📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
-> 
+> If you're building something that matters, let's talk now: </br>
+📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com) </br>
+📚 LinkeDin:  https://www.linkedin.com/in/leolanese/
+
 </div>
 
 <br />

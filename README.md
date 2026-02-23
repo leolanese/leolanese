@@ -53,11 +53,11 @@ I've also worked and lived in Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩�
 - [Workshops](https://github.com/leolanese?tab=repositories&q=workshop&type=&language=&sort=)
 
 ## 🤝 Contributions
-- [`JS Invited Expert`, React Advanced London Conference](https://reactadvanced.com/)
 - [`Technical Reviewer (Angular)`, "Deploying Angular", Packt Publishing](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
 - [`Technical Reviewer (NestJS)`, "Scalable Application Development with NestJS", Packt Publishing](https://www.packtpub.com/en-us/product/scalable-application-development-with-nestjs-9781835463956))
 - [`CodeSnap Technical Magazine Writer`, Functional Programming unit-test](https://codesnapmag.hashnode.dev/functional-programming-unit-test)
 - [`Dev.to Technical Blog`, Article writer about Software Engineer`](https://dev.to/leolanese)
+- [`JavaScript Invited Expert`, React Advanced London Conference](https://reactadvanced.com/)
 - [`OpenJS Foundation`, Support collaborative development of JavaScript and web technologies individual participant`](https://openprofile.dev/profile/leolanese)
 
 <br />
@@ -118,33 +118,33 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 
 
 ### 📈 Github Contribution heatmap charts/activity graph (2026)
-> Daily commit activity over the year. Shows how consistently and actively I contribute to projects.
+> Daily commit activity over the year. Shows how consistently and actively I contribute to projects
 > 
 ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true)
 
 
 ### 🟩 Contribution Heatmap (2026)
-> Each square represents a day. The darker the green, the more contributions made that day. A full grid means consistent, year-round coding activity.
+> Each square represents a day. The darker the green, the more contributions made that day. A full grid means consistent, year-round activity
 
 ![Leo's GitHub Contribution Heatmap 2026](https://ghchart.rshah.org/2ea043/leolanese)
 
 
 ### 📋 Profile Summary
-> Breakdown of commit volume, repositories contributed to, pull requests, and code reviews.
+> Breakdown of commit volume, repositories contributed to, pull requests, and code reviews
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leolanese&theme=react)
 
 
 ### 🔥 Contribution Streak
-> Shows my longest and current streak of consecutive days with GitHub contributions, a measure of dedication and consistency.
+> Shows my longest and current streak of consecutive days with GitHub contributions, a measure of dedication and consistency
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)
 
 ---
 
-## 🌐 401 developer, Community & Social Proof
+## 🌐 "404 Developer", Community & Social Proof
 
-> Trust signals built over 15+ years of active community involvement.
+> Trust signals built over 15+ years of active community involvement
 
 | | |
 |---|---|

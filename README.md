@@ -54,7 +54,8 @@ I've also worked and lived in Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩�
 
 ## 🤝 Contributions
 - [`JS Invited Expert`, React Advanced London Conference](https://reactadvanced.com/)
-- [`Technical Reviewer`, "Deploying Angular", Packt Publishing](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
+- [`Technical Reviewer (Angular)`, "Deploying Angular", Packt Publishing](https://www.packtpub.com/product/deploying-angularjs-video/9781783554478)
+- [`Technical Reviewer (NestJS)`, "Scalable Application Development with NestJS", Packt Publishing](https://www.packtpub.com/en-us/product/scalable-application-development-with-nestjs-9781835463956))
 - [`CodeSnap Technical Magazine Writer`, Functional Programming unit-test](https://codesnapmag.hashnode.dev/functional-programming-unit-test)
 - [`Dev.to Technical Blog`, Article writer about Software Engineer`](https://dev.to/leolanese)
 - [`OpenJS Foundation`, Support collaborative development of JavaScript and web technologies individual participant`](https://openprofile.dev/profile/leolanese)

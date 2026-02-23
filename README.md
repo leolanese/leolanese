@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
-  <h3>Senior Angular Developer | AI & Data-Driven UX</h3>
+  <h3>🅰️ Senior Angular Developer | AI & Data-Driven UX</h3>
 
 **I ship fast, scalable Angular apps and help teams do the same.**
 

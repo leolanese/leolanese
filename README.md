@@ -5,18 +5,18 @@
 Senior `Angular Developer` & `JS Speaker` with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and `backed by 34+ professional recommendations`, I deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality. 
 
 I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling to automate commoditised tasks and compress development cycles. Specilising in `Angular and Front-End architecture`, my role goes beyond writing code, it's about crafting `high-performance`, `scalable user experiences`, that users not only love but also feel deeply connected to. By focusing on creating applications that users trust, rely on, and want to keep using, I aim to build products that truly resonate with their needs and improve their lives.<br />
-
 </div>
+
+<br />
 
 <div align="centre">
-
-> ## **Exciting Opportunities Await!** 🚀
+> ## **Open to New Challenges** 🚀
 > ### Available for new projects: Remote or London hybrid positions of interest (Contract B2B/Limited Company or Permanent/FTC)
-> Let's work together and create something amazing 🚀
+> If you're solving real problems and want it done well, we should talk 🚀
 📧 Email: [developer@leolanese.com](mailto:developer@leolanese.com)
-
 </div>
 
+<br />
 
 ## Professional Profile
 

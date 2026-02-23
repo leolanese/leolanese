@@ -1,7 +1,3 @@
-
-Readme · MD
-Copy
-
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
   <h3>Senior Angular Developer | AI & Data-Driven UX</h3>
@@ -117,18 +113,41 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
   <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese’s GitHub image" width="600" height="314" />
 </a>
 
-## Github Contribution graph/activity graph
 
+## 📊 GitHub Activity & Contributions
+
+> A live snapshot of my coding activity, consistency, and open-source presence.
+
+---
+
+### 🖼️ GitHub Profile Overview
+> Summary card showing total stars earned, commits, pull requests, and followers.
+
+<a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer">
+  <img src="https://scastiel.dev/api/image/leolanese?dark&removeLink" alt="leolanese's GitHub image" width="600" height="314" />
+</a>
+
+
+### 📈 Github Contribution heatmap charts/activity graph
+> Daily commit activity over the year. Shows how consistently and actively I contribute to projects.
+> 
 ![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true)
 
-<br />
 
+### 🟩 Contribution Heatmap (2026)
+> Each square represents a day. The darker the green, the more contributions made that day. A full grid means consistent, year-round coding activity.
+
+![Leo's GitHub Contribution Heatmap 2026](https://ghchart.rshah.org/2ea043/leolanese)
+
+
+### 📋 Profile Summary
+> Breakdown of commit volume, repositories contributed to, pull requests, and code reviews.
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leolanese&theme=react)
 
-<br />
+
+### 🔥 Contribution Streak
+> Shows my longest and current streak of consecutive days with GitHub contributions, a measure of dedication and consistency.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)
-
-<br />
 

@@ -40,7 +40,7 @@ I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling t
 
 ## 🖥️ Experience
 
-Past clients include: `BBC`, `Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast` and others — delivering production-grade products across the UK and Europe.
+Past clients include: `BBC`, `Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, delivering production-grade products across the UK and Europe.
 
 I've also worked and lived in Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩🇪, and the UK 🇬🇧, giving me a strong cross-cultural perspective on teams and collaboration.
 

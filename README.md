@@ -6,7 +6,7 @@
 
 Senior `Angular Developer` & `JS Speaker` with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` and `3100+ X followers`, I deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
 
-I drive team velocity as a `Centaur-Engineer`, integrating AI-assisted tooling to automate commoditised tasks and compress development cycles, specialising in `Angular and Front-End architecture`.
+I drive team velocity, integrating AI-tooling to automate commoditised tasks and compress development cycles, specialising in `Angular and Front-End architecture`.
 </div>
 
 <br />

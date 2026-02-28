@@ -73,12 +73,6 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 
 ---
 
-## 💬 Ask me about
-
-`Angular` · `JavaScript & TypeScript` · `RxJS` · `NestJS` · `AI` · `AWS` · `Functional Programming` · `Responsive Web Design` · `Agile` · 
-
----
-
 ## 👨‍🚀 Tech Stack
 
 **Languages**
@@ -104,13 +98,7 @@ Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` cap
 
 ---
 
-## 📊 GitHub Activity & Contributions
-
-> A live snapshot of my coding activity, consistency, and open-source presence.
-
----
-
-### 🖼️ GitHub Profile Overview
+## 📊 GitHub Activity, Contributions & Profile Overview
 > Summary card showing total stars earned, commits, pull requests, and followers.
 
 <a href="https://github.com/leolanese" target="_blank" rel="noopener noreferrer">

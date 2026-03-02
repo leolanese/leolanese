@@ -6,7 +6,7 @@
 
 Senior `Angular Developer`, and `JS Speaker`, with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` and `3100+ X followers`, I deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
 
-I drive team velocity, integrating AI-tooling to automate commoditised tasks and compress development cycles, specialising in `Angular and Front-End architecture`.
+I drive team velocity, orchestrating AI-tooling to automate commoditised tasks and compress development cycles, specialising in `Angular and Front-End architecture`.
 </div>
 
 <br />
@@ -26,10 +26,11 @@ I drive team velocity, integrating AI-tooling to automate commoditised tasks and
 
 ## 🌟 Technical Philosophy: `Bridging Innovation and Practicality`
 
+
 - 🚀 **Solve real problems**, elegant, scalable solutions over clever tricks
 - 🎯 **Prioritise UX and performance**, fast, reliable, user-friendly systems
 - ⚖️ **Balance technical depth with business value**, code that earns trust
-- 📚 **Stay curious**, continuous learning, continuous improvement
+- 📚 **I drive team velocity, integrating AI-tooling to automate commoditised tasks and compress development cycles**, continuous learning and evolving, continuous improvement to reduce time-to-market deliveries
 
 <br />
 

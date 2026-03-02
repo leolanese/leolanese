@@ -4,7 +4,7 @@
 
 **I ship fast, scalable Angular apps and help teams do the same.**
 
-Senior `Angular Developer`, and `JS Speaker`, with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` and `3100+ X followers`, I deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
+Senior `Angular Developer`, and `JS Speaker`, with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` & `3100+ X followers`. I architect & deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
 
 I drive team velocity, orchestrating AI-tooling to automate commoditised tasks and compress development cycles, specialising in `Angular and Front-End architecture`.
 </div>
@@ -31,16 +31,6 @@ I drive team velocity, orchestrating AI-tooling to automate commoditised tasks a
 - 🎯 **Prioritise UX and performance**, fast, reliable, user-friendly systems
 - ⚖️ **Balance technical depth with business value**, code that earns trust
 - 📚 **I drive team velocity, integrating AI-tooling to automate commoditised tasks and compress development cycles**, continuous learning and evolving, continuous improvement to reduce time-to-market deliveries
-
-<br />
-
----
-
-## 🖥️ Experience
-
-Past clients include: `BBC`, `Metropolitan Police`, `Nokia`, `IBM`, `SKY`, `Mimecast`, delivering production-grade products across the UK and Europe.
-
-I've also worked and lived in Argentina 🇦🇷, Spain 🇪🇸, Germany 🇩🇪, and the UK 🇬🇧, giving me a strong cross-cultural perspective on teams and collaboration.
 
 <br />
 

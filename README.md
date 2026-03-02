@@ -58,7 +58,7 @@ I drive team velocity, orchestrating AI-tooling to automate commoditised tasks a
 
 ## 👨‍💻 Currently
 
-Exploring `AI` and `NestJS` alongside Angular, pushing toward a `Full-Stack` capability. Also volunteering with [`CYF / CodeYourFuture Charity`](https://codeyourfuture.io/), helping people affected by forced diaspora get into tech.
+Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing toward a `Full-Stack` capability with automatic AI orchestration. 
 
 <br />
 

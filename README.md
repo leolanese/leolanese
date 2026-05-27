@@ -1,10 +1,10 @@
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
-  <h3>Senior Angular Developer & Front-End Architect</h3>
+  <h3>Senior Angular Engineer & Front-End Architect</h3>
 
 **I ship fast, scalable Angular apps and help teams do the same.**
 
-Senior `Angular Developer`, and `JS Speaker`, with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` & `3100+ X followers`. I architect & deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
+Senior `Angular Engineer`, and `JS Speaker`, with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` & `3100+ X followers`. I architect & deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
 
 I drive team velocity, orchestrating AI-tooling to automate commoditised tasks and compress development cycles, specialising in `Angular and Front-End architecture`.
 </div>
@@ -15,7 +15,7 @@ I drive team velocity, orchestrating AI-tooling to automate commoditised tasks a
 
 > ## 🅰️ **Open to New Challenges**
 > ### `Available for new projects`: Remote UK based or London hybrid (Contract B2B/Limited Company or Permanent/FTC)
-> 📧 [developer@leolanese.com](mailto:developer@leolanese.com) </br>
+> 📧 [engineer@leolanese.com](mailto:engineer@leolanese.com) </br>
 > 📋 [LinkedIn](https://www.linkedin.com/in/leolanese/)
 
 </div>
@@ -122,7 +122,7 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 
 ---
 
-## 🌐 "404 Developer", Community & Social Proof
+## 🌐 "404 Engineer", Community & Social Proof
 
 > Trust signals built over 15+ years of active community involvement
 

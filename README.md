@@ -1,8 +1,8 @@
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
-  <h3>I'm a passionately curious Senior Angular Engineer | Front-End Architect. London, UK.</h3>
+  <h3>Senior Angular Engineer | Front-End Architect. London, UK.</h3>
 
-**I ship fast, scalable Solutiond and help teams do the same.**
+**I'm a passionately curious Senior Engineer. I ship fast, scalable Solutiond and help teams do the same.**
 
 Senior `Angular Engineer`, and `JS Speaker`, with `15+ years of UK contracting experience`. With a foundation in `Computer Systems Analysis` and backed by `34+ LinkeDin professional recommendations` & `3100+ X followers`. I architect & deliver scalable, high-performance, user-centric applications that improve usability and elevate product quality.
 

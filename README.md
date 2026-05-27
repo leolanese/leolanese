@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
-  <h3>Senior Angular Engineer & Front-End Architect</h3>
+  <h3>I'm a passionately curious Senior Angular Engineer | Front-End Architect. London, UK.</h3>
 
 **I ship fast, scalable Angular apps and help teams do the same.**
 

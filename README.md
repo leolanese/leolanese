@@ -139,4 +139,4 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 [![Dev.to](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white)](http://www.dev.to/leolanese)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/LeoLanese)
 [![Blog](https://img.shields.io/badge/blog-ededed?style=for-the-badge)](http://www.leolanese.com/blog)
-[![Email](https://img.shields.io/badge/email-Developer%40leolanese.com-informational?style=for-the-badge)](mailto:developer@leolanese.com)
+[![Email](https://img.shields.io/badge/email-engineer%40leolanese.com-informational?style=for-the-badge)](mailto:engineer@leolanese.com)

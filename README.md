@@ -100,7 +100,8 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 ### 📈 Github Contribution heatmap charts/activity graph (2026)
 > Daily commit activity over the year. Shows how consistently and actively I contribute to projects
 > 
-![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true)
+![Leo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leolanese&theme=react-dark&hide_border=true&cache_seconds=3600)
+
 
 
 ### 🟩 Contribution Heatmap (2026)

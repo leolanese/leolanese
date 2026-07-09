@@ -123,12 +123,6 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leolanese&theme=react&hide_border=true)
 
-CACA
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolanese&show_icons=true&theme=react&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolanese&layout=compact&theme=react&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=leolanese&theme=react&hide_border=true)
 
 ---
 

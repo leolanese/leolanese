@@ -1,5 +1,3 @@
-![Trophy](https://github-profile-trophy.vercel.app/?username=leolanese&theme=onedark&no-frame=true&row=1&column=6)
-
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
   <h3>Senior Angular Engineer | Front-End Architect. London, UK.</h3>
@@ -122,6 +120,8 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 > Shows my longest and current streak of consecutive days with GitHub contributions, a measure of dedication and consistency
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leolanese&theme=react&hide_border=true)
 
 ---
 

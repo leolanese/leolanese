@@ -125,9 +125,6 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 ### 📈 Github Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leolanese&theme=react&hide_border=true)
 
-## Gihub (Public repos)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=leolanese&theme=react&hide_border=true)
-
 ---
 
 ## 🌐 "404 Engineer", Community & Social Proof

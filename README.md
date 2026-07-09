@@ -121,9 +121,17 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leolanese&theme=react&hide_border=true)](https://streak-stats.demolab.com?user=leolanese&theme=react&hide_border=true)
 
+
+### 📈 Github Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leolanese&theme=react&hide_border=true)
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=leolanese&theme=react&hide_border=true)
+
+![Metrics](https://metrics.lecoq.io/leolanese?template=classic&base.header=0&base.activity=1&base.repositories=1&base.metadata=0&config.timezone=Europe%2FLondon)
 ---
 
 ## 🌐 "404 Engineer", Community & Social Proof

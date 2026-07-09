@@ -129,11 +129,9 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 
 ## 🌐 "404 Engineer", Community & Social Proof
 
-> Trust signals built over 15+ years of active community involvement
-
-| | |
+| SOCIAL MEDIA| Recomendations |
 |---|---|
-| 💼 **34+ LinkedIn Recommendations** | Backed from colleagues and Clients [View on LinkedIn →](https://www.linkedin.com/in/leolanese/details/recommendations/) |
+| 💼 **36+ LinkedIn Recommendations** | Backed from colleagues and Clients [View on LinkedIn →](https://www.linkedin.com/in/leolanese/details/recommendations/) |
 | 🐦 **3,100+ Twitter/X Followers** | An engaged audience in the JavaScript, Angular and Front-End community, built through conference speaking, workshops and open knowledge sharing. [Follow on X →](https://twitter.com/LeoLanese) |
 
 ---
@@ -143,5 +141,4 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leolanese/)
 [![Dev.to](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white)](http://www.dev.to/leolanese)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/LeoLanese)
-[![Blog](https://img.shields.io/badge/blog-ededed?style=for-the-badge)](http://www.leolanese.com/blog)
 [![Email](https://img.shields.io/badge/email-engineer%40leolanese.com-informational?style=for-the-badge)](mailto:engineer@leolanese.com)

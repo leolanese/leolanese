@@ -21,7 +21,6 @@ I drive team velocity, orchestrating AI-tooling to automate commoditised tasks a
 </div>
 
 <br />
-
 ---
 
 ## 🌟 Technical Philosophy: `Bridging Innovation and Practicality`
@@ -76,9 +75,10 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 **Frameworks & Libraries**
 
 ![Angular](https://img.shields.io/badge/-Angular2+-dd0031?logo=angular)
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-754cbf?logo=redux)
 ![RxJS](https://img.shields.io/badge/RxJS-EE0000?style=for-the-badge&logo=rxjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 
 **Tools**
 
@@ -125,13 +125,9 @@ Exploring `AI` toolings, and `NestJS` back-end alongside Modern Angular, pushing
 ### 📈 Github Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leolanese&theme=react&hide_border=true)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-
+## Gihub (Public repos)
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=leolanese&theme=react&hide_border=true)
 
-![Metrics](https://metrics.lecoq.io/leolanese?template=classic&base.header=0&base.activity=1&base.repositories=1&base.metadata=0&config.timezone=Europe%2FLondon)
 ---
 
 ## 🌐 "404 Engineer", Community & Social Proof

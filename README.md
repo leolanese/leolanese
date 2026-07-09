@@ -1,3 +1,5 @@
+![Trophy](https://github-profile-trophy.vercel.app/?username=leolanese&theme=onedark&no-frame=true&row=1&column=6)
+
 <div align="left">
   <h2>Hi, I'm Leo Lanese 👋</h2>
   <h3>Senior Angular Engineer | Front-End Architect. London, UK.</h3>
